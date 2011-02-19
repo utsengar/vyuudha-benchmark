@@ -1,0 +1,11 @@
+I have tried out:  
+============
+1. Serialized objects over Socket (IO)  
+2. Protocol buffers over Socket (IO)  
+3. JGroups  
+
+Initial aim was to try out membership, but this can be extended to test data replication too.  
+
+Notes: It's a basic stopclock benchmarking, I know it's lame, but it works!  
+
+Main project: https://github.com/utkarsh2012/vyuudha  

@@ -1,0 +1,2003 @@
+0    [main] INFO  com.data.benchmark.SerializedSocketIODriver  - Size of object: 138
+2    [Thread-1] INFO  com.data.sockets.SocketReceiver  - Receiver starting
+13   [main] INFO  com.data.sockets.SocketSender  - Sending message: 0 sent: 1298074771506
+13   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771506
+14   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771507
+14   [main] INFO  com.data.sockets.SocketSender  - Sending message: 1 sent: 1298074771507
+15   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771507
+15   [main] INFO  com.data.sockets.SocketSender  - Sending message: 2 sent: 1298074771507
+15   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771508
+15   [main] INFO  com.data.sockets.SocketSender  - Sending message: 3 sent: 1298074771508
+15   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771508
+15   [main] INFO  com.data.sockets.SocketSender  - Sending message: 4 sent: 1298074771508
+16   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771509
+16   [main] INFO  com.data.sockets.SocketSender  - Sending message: 5 sent: 1298074771509
+16   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771509
+16   [main] INFO  com.data.sockets.SocketSender  - Sending message: 6 sent: 1298074771509
+17   [main] INFO  com.data.sockets.SocketSender  - Sending message: 7 sent: 1298074771510
+17   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771510
+17   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771510
+17   [main] INFO  com.data.sockets.SocketSender  - Sending message: 8 sent: 1298074771510
+17   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771510
+17   [main] INFO  com.data.sockets.SocketSender  - Sending message: 9 sent: 1298074771510
+18   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771511
+18   [main] INFO  com.data.sockets.SocketSender  - Sending message: 10 sent: 1298074771511
+18   [main] INFO  com.data.sockets.SocketSender  - Sending message: 11 sent: 1298074771511
+18   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771511
+18   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771511
+18   [main] INFO  com.data.sockets.SocketSender  - Sending message: 12 sent: 1298074771511
+19   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771512
+19   [main] INFO  com.data.sockets.SocketSender  - Sending message: 13 sent: 1298074771512
+19   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771512
+19   [main] INFO  com.data.sockets.SocketSender  - Sending message: 14 sent: 1298074771512
+20   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771513
+20   [main] INFO  com.data.sockets.SocketSender  - Sending message: 15 sent: 1298074771513
+20   [main] INFO  com.data.sockets.SocketSender  - Sending message: 16 sent: 1298074771513
+20   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771513
+20   [main] INFO  com.data.sockets.SocketSender  - Sending message: 17 sent: 1298074771513
+20   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771513
+21   [main] INFO  com.data.sockets.SocketSender  - Sending message: 18 sent: 1298074771514
+21   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771514
+21   [main] INFO  com.data.sockets.SocketSender  - Sending message: 19 sent: 1298074771514
+21   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771514
+21   [main] INFO  com.data.sockets.SocketSender  - Sending message: 20 sent: 1298074771514
+21   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771514
+22   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771515
+22   [main] INFO  com.data.sockets.SocketSender  - Sending message: 21 sent: 1298074771515
+22   [main] INFO  com.data.sockets.SocketSender  - Sending message: 22 sent: 1298074771515
+22   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771515
+22   [main] INFO  com.data.sockets.SocketSender  - Sending message: 23 sent: 1298074771515
+22   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771515
+23   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771516
+23   [main] INFO  com.data.sockets.SocketSender  - Sending message: 24 sent: 1298074771516
+23   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771516
+23   [main] INFO  com.data.sockets.SocketSender  - Sending message: 25 sent: 1298074771516
+24   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771517
+24   [main] INFO  com.data.sockets.SocketSender  - Sending message: 26 sent: 1298074771517
+24   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771517
+24   [main] INFO  com.data.sockets.SocketSender  - Sending message: 27 sent: 1298074771517
+24   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771517
+24   [main] INFO  com.data.sockets.SocketSender  - Sending message: 28 sent: 1298074771517
+25   [main] INFO  com.data.sockets.SocketSender  - Sending message: 29 sent: 1298074771518
+25   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771518
+25   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771518
+25   [main] INFO  com.data.sockets.SocketSender  - Sending message: 30 sent: 1298074771518
+26   [main] INFO  com.data.sockets.SocketSender  - Sending message: 31 sent: 1298074771518
+26   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771518
+26   [main] INFO  com.data.sockets.SocketSender  - Sending message: 32 sent: 1298074771519
+26   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771519
+26   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771519
+26   [main] INFO  com.data.sockets.SocketSender  - Sending message: 33 sent: 1298074771519
+27   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771520
+27   [main] INFO  com.data.sockets.SocketSender  - Sending message: 34 sent: 1298074771520
+27   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771520
+27   [main] INFO  com.data.sockets.SocketSender  - Sending message: 35 sent: 1298074771520
+27   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771520
+27   [main] INFO  com.data.sockets.SocketSender  - Sending message: 36 sent: 1298074771520
+28   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771521
+28   [main] INFO  com.data.sockets.SocketSender  - Sending message: 37 sent: 1298074771521
+28   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771521
+28   [main] INFO  com.data.sockets.SocketSender  - Sending message: 38 sent: 1298074771521
+29   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771522
+29   [main] INFO  com.data.sockets.SocketSender  - Sending message: 39 sent: 1298074771522
+29   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771522
+29   [main] INFO  com.data.sockets.SocketSender  - Sending message: 40 sent: 1298074771522
+29   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771522
+29   [main] INFO  com.data.sockets.SocketSender  - Sending message: 41 sent: 1298074771522
+30   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771523
+30   [main] INFO  com.data.sockets.SocketSender  - Sending message: 42 sent: 1298074771523
+30   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771523
+30   [main] INFO  com.data.sockets.SocketSender  - Sending message: 43 sent: 1298074771523
+31   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771524
+31   [main] INFO  com.data.sockets.SocketSender  - Sending message: 44 sent: 1298074771524
+31   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771524
+31   [main] INFO  com.data.sockets.SocketSender  - Sending message: 45 sent: 1298074771524
+32   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771525
+32   [main] INFO  com.data.sockets.SocketSender  - Sending message: 46 sent: 1298074771525
+32   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771525
+32   [main] INFO  com.data.sockets.SocketSender  - Sending message: 47 sent: 1298074771525
+32   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771525
+32   [main] INFO  com.data.sockets.SocketSender  - Sending message: 48 sent: 1298074771525
+33   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771526
+33   [main] INFO  com.data.sockets.SocketSender  - Sending message: 49 sent: 1298074771526
+33   [main] INFO  com.data.sockets.SocketSender  - Sending message: 50 sent: 1298074771526
+33   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771526
+34   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771527
+34   [main] INFO  com.data.sockets.SocketSender  - Sending message: 51 sent: 1298074771527
+34   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771527
+34   [main] INFO  com.data.sockets.SocketSender  - Sending message: 52 sent: 1298074771527
+35   [main] INFO  com.data.sockets.SocketSender  - Sending message: 53 sent: 1298074771528
+35   [main] INFO  com.data.sockets.SocketSender  - Sending message: 54 sent: 1298074771528
+36   [main] INFO  com.data.sockets.SocketSender  - Sending message: 55 sent: 1298074771529
+36   [main] INFO  com.data.sockets.SocketSender  - Sending message: 56 sent: 1298074771529
+37   [main] INFO  com.data.sockets.SocketSender  - Sending message: 57 sent: 1298074771530
+37   [main] INFO  com.data.sockets.SocketSender  - Sending message: 58 sent: 1298074771530
+37   [main] INFO  com.data.sockets.SocketSender  - Sending message: 59 sent: 1298074771530
+38   [main] INFO  com.data.sockets.SocketSender  - Sending message: 60 sent: 1298074771531
+38   [main] INFO  com.data.sockets.SocketSender  - Sending message: 61 sent: 1298074771531
+39   [main] INFO  com.data.sockets.SocketSender  - Sending message: 62 sent: 1298074771532
+39   [main] INFO  com.data.sockets.SocketSender  - Sending message: 63 sent: 1298074771532
+40   [main] INFO  com.data.sockets.SocketSender  - Sending message: 64 sent: 1298074771533
+40   [main] INFO  com.data.sockets.SocketSender  - Sending message: 65 sent: 1298074771533
+40   [main] INFO  com.data.sockets.SocketSender  - Sending message: 66 sent: 1298074771533
+41   [main] INFO  com.data.sockets.SocketSender  - Sending message: 67 sent: 1298074771534
+41   [main] INFO  com.data.sockets.SocketSender  - Sending message: 68 sent: 1298074771534
+42   [main] INFO  com.data.sockets.SocketSender  - Sending message: 69 sent: 1298074771535
+42   [main] INFO  com.data.sockets.SocketSender  - Sending message: 70 sent: 1298074771535
+43   [main] INFO  com.data.sockets.SocketSender  - Sending message: 71 sent: 1298074771536
+43   [main] INFO  com.data.sockets.SocketSender  - Sending message: 72 sent: 1298074771536
+43   [main] INFO  com.data.sockets.SocketSender  - Sending message: 73 sent: 1298074771536
+44   [main] INFO  com.data.sockets.SocketSender  - Sending message: 74 sent: 1298074771537
+44   [main] INFO  com.data.sockets.SocketSender  - Sending message: 75 sent: 1298074771537
+45   [main] INFO  com.data.sockets.SocketSender  - Sending message: 76 sent: 1298074771538
+45   [main] INFO  com.data.sockets.SocketSender  - Sending message: 77 sent: 1298074771538
+46   [main] INFO  com.data.sockets.SocketSender  - Sending message: 78 sent: 1298074771539
+46   [main] INFO  com.data.sockets.SocketSender  - Sending message: 79 sent: 1298074771539
+46   [main] INFO  com.data.sockets.SocketSender  - Sending message: 80 sent: 1298074771539
+47   [main] INFO  com.data.sockets.SocketSender  - Sending message: 81 sent: 1298074771540
+47   [main] INFO  com.data.sockets.SocketSender  - Sending message: 82 sent: 1298074771540
+48   [main] INFO  com.data.sockets.SocketSender  - Sending message: 83 sent: 1298074771541
+48   [main] INFO  com.data.sockets.SocketSender  - Sending message: 84 sent: 1298074771541
+48   [main] INFO  com.data.sockets.SocketSender  - Sending message: 85 sent: 1298074771541
+49   [main] INFO  com.data.sockets.SocketSender  - Sending message: 86 sent: 1298074771542
+49   [main] INFO  com.data.sockets.SocketSender  - Sending message: 87 sent: 1298074771542
+50   [main] INFO  com.data.sockets.SocketSender  - Sending message: 88 sent: 1298074771543
+50   [main] INFO  com.data.sockets.SocketSender  - Sending message: 89 sent: 1298074771543
+50   [main] INFO  com.data.sockets.SocketSender  - Sending message: 90 sent: 1298074771543
+51   [main] INFO  com.data.sockets.SocketSender  - Sending message: 91 sent: 1298074771544
+51   [main] INFO  com.data.sockets.SocketSender  - Sending message: 92 sent: 1298074771544
+52   [main] INFO  com.data.sockets.SocketSender  - Sending message: 93 sent: 1298074771545
+52   [main] INFO  com.data.sockets.SocketSender  - Sending message: 94 sent: 1298074771545
+52   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771545
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+53   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771546
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+54   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771547
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+55   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771548
+56   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771549
+56   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771549
+56   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771549
+56   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771549
+56   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771549
+56   [main] INFO  com.data.sockets.SocketSender  - Sending message: 95 sent: 1298074771549
+66   [main] INFO  com.data.sockets.SocketSender  - Sending message: 96 sent: 1298074771559
+66   [main] INFO  com.data.sockets.SocketSender  - Sending message: 97 sent: 1298074771559
+67   [main] INFO  com.data.sockets.SocketSender  - Sending message: 98 sent: 1298074771560
+67   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771560
+67   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771560
+67   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771560
+67   [main] INFO  com.data.sockets.SocketSender  - Sending message: 99 sent: 1298074771560
+67   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771560
+67   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771560
+67   [main] INFO  com.data.sockets.SocketSender  - Sending message: 100 sent: 1298074771560
+68   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771561
+68   [main] INFO  com.data.sockets.SocketSender  - Sending message: 101 sent: 1298074771561
+68   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771561
+68   [main] INFO  com.data.sockets.SocketSender  - Sending message: 102 sent: 1298074771561
+69   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771562
+69   [main] INFO  com.data.sockets.SocketSender  - Sending message: 103 sent: 1298074771562
+69   [main] INFO  com.data.sockets.SocketSender  - Sending message: 104 sent: 1298074771562
+69   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771562
+69   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771562
+69   [main] INFO  com.data.sockets.SocketSender  - Sending message: 105 sent: 1298074771562
+69   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771562
+69   [main] INFO  com.data.sockets.SocketSender  - Sending message: 106 sent: 1298074771562
+70   [main] INFO  com.data.sockets.SocketSender  - Sending message: 107 sent: 1298074771563
+70   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771563
+70   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771563
+70   [main] INFO  com.data.sockets.SocketSender  - Sending message: 108 sent: 1298074771563
+70   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771563
+70   [main] INFO  com.data.sockets.SocketSender  - Sending message: 109 sent: 1298074771563
+71   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771564
+71   [main] INFO  com.data.sockets.SocketSender  - Sending message: 110 sent: 1298074771564
+71   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771564
+71   [main] INFO  com.data.sockets.SocketSender  - Sending message: 111 sent: 1298074771564
+71   [main] INFO  com.data.sockets.SocketSender  - Sending message: 112 sent: 1298074771564
+72   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771565
+72   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771565
+72   [main] INFO  com.data.sockets.SocketSender  - Sending message: 113 sent: 1298074771565
+72   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771565
+72   [main] INFO  com.data.sockets.SocketSender  - Sending message: 114 sent: 1298074771565
+72   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771565
+72   [main] INFO  com.data.sockets.SocketSender  - Sending message: 115 sent: 1298074771565
+73   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771566
+73   [main] INFO  com.data.sockets.SocketSender  - Sending message: 116 sent: 1298074771566
+73   [main] INFO  com.data.sockets.SocketSender  - Sending message: 117 sent: 1298074771566
+73   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771566
+73   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771566
+73   [main] INFO  com.data.sockets.SocketSender  - Sending message: 118 sent: 1298074771566
+74   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771567
+74   [main] INFO  com.data.sockets.SocketSender  - Sending message: 119 sent: 1298074771567
+74   [main] INFO  com.data.sockets.SocketSender  - Sending message: 120 sent: 1298074771567
+74   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771567
+74   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771567
+74   [main] INFO  com.data.sockets.SocketSender  - Sending message: 121 sent: 1298074771567
+75   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771568
+75   [main] INFO  com.data.sockets.SocketSender  - Sending message: 122 sent: 1298074771568
+75   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771568
+75   [main] INFO  com.data.sockets.SocketSender  - Sending message: 123 sent: 1298074771568
+75   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771568
+75   [main] INFO  com.data.sockets.SocketSender  - Sending message: 124 sent: 1298074771568
+76   [main] INFO  com.data.sockets.SocketSender  - Sending message: 125 sent: 1298074771569
+76   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771569
+76   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771569
+76   [main] INFO  com.data.sockets.SocketSender  - Sending message: 126 sent: 1298074771569
+76   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771569
+76   [main] INFO  com.data.sockets.SocketSender  - Sending message: 127 sent: 1298074771569
+77   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771570
+77   [main] INFO  com.data.sockets.SocketSender  - Sending message: 128 sent: 1298074771570
+77   [main] INFO  com.data.sockets.SocketSender  - Sending message: 129 sent: 1298074771570
+77   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771570
+77   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771570
+77   [main] INFO  com.data.sockets.SocketSender  - Sending message: 130 sent: 1298074771570
+78   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771571
+78   [main] INFO  com.data.sockets.SocketSender  - Sending message: 131 sent: 1298074771571
+78   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771571
+78   [main] INFO  com.data.sockets.SocketSender  - Sending message: 132 sent: 1298074771571
+78   [main] INFO  com.data.sockets.SocketSender  - Sending message: 133 sent: 1298074771571
+78   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771571
+79   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771572
+79   [main] INFO  com.data.sockets.SocketSender  - Sending message: 134 sent: 1298074771572
+79   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771572
+79   [main] INFO  com.data.sockets.SocketSender  - Sending message: 135 sent: 1298074771572
+79   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771572
+79   [main] INFO  com.data.sockets.SocketSender  - Sending message: 136 sent: 1298074771572
+80   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771573
+80   [main] INFO  com.data.sockets.SocketSender  - Sending message: 137 sent: 1298074771573
+80   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771573
+80   [main] INFO  com.data.sockets.SocketSender  - Sending message: 138 sent: 1298074771573
+80   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771573
+80   [main] INFO  com.data.sockets.SocketSender  - Sending message: 139 sent: 1298074771573
+81   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771574
+81   [main] INFO  com.data.sockets.SocketSender  - Sending message: 140 sent: 1298074771574
+81   [main] INFO  com.data.sockets.SocketSender  - Sending message: 141 sent: 1298074771574
+81   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771574
+81   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771574
+81   [main] INFO  com.data.sockets.SocketSender  - Sending message: 142 sent: 1298074771574
+82   [main] INFO  com.data.sockets.SocketSender  - Sending message: 143 sent: 1298074771575
+82   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771575
+82   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771575
+82   [main] INFO  com.data.sockets.SocketSender  - Sending message: 144 sent: 1298074771575
+82   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771575
+82   [main] INFO  com.data.sockets.SocketSender  - Sending message: 145 sent: 1298074771575
+83   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771576
+83   [main] INFO  com.data.sockets.SocketSender  - Sending message: 146 sent: 1298074771576
+83   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771576
+83   [main] INFO  com.data.sockets.SocketSender  - Sending message: 147 sent: 1298074771576
+83   [main] INFO  com.data.sockets.SocketSender  - Sending message: 148 sent: 1298074771576
+83   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771576
+84   [main] INFO  com.data.sockets.SocketSender  - Sending message: 149 sent: 1298074771577
+84   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771577
+84   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771577
+84   [main] INFO  com.data.sockets.SocketSender  - Sending message: 150 sent: 1298074771577
+84   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771577
+84   [main] INFO  com.data.sockets.SocketSender  - Sending message: 151 sent: 1298074771577
+85   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771578
+85   [main] INFO  com.data.sockets.SocketSender  - Sending message: 152 sent: 1298074771578
+85   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771578
+85   [main] INFO  com.data.sockets.SocketSender  - Sending message: 153 sent: 1298074771578
+85   [main] INFO  com.data.sockets.SocketSender  - Sending message: 154 sent: 1298074771578
+85   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771578
+86   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771579
+86   [main] INFO  com.data.sockets.SocketSender  - Sending message: 155 sent: 1298074771579
+86   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771579
+86   [main] INFO  com.data.sockets.SocketSender  - Sending message: 156 sent: 1298074771579
+86   [main] INFO  com.data.sockets.SocketSender  - Sending message: 157 sent: 1298074771579
+86   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771579
+87   [main] INFO  com.data.sockets.SocketSender  - Sending message: 158 sent: 1298074771580
+87   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771580
+87   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771580
+87   [main] INFO  com.data.sockets.SocketSender  - Sending message: 159 sent: 1298074771580
+87   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771580
+87   [main] INFO  com.data.sockets.SocketSender  - Sending message: 160 sent: 1298074771580
+88   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771581
+88   [main] INFO  com.data.sockets.SocketSender  - Sending message: 161 sent: 1298074771581
+88   [main] INFO  com.data.sockets.SocketSender  - Sending message: 162 sent: 1298074771581
+88   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771581
+88   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771581
+88   [main] INFO  com.data.sockets.SocketSender  - Sending message: 163 sent: 1298074771581
+89   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771582
+89   [main] INFO  com.data.sockets.SocketSender  - Sending message: 164 sent: 1298074771582
+89   [main] INFO  com.data.sockets.SocketSender  - Sending message: 165 sent: 1298074771582
+89   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771582
+89   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771582
+89   [main] INFO  com.data.sockets.SocketSender  - Sending message: 166 sent: 1298074771582
+90   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771583
+90   [main] INFO  com.data.sockets.SocketSender  - Sending message: 167 sent: 1298074771583
+90   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771583
+90   [main] INFO  com.data.sockets.SocketSender  - Sending message: 168 sent: 1298074771583
+90   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771583
+90   [main] INFO  com.data.sockets.SocketSender  - Sending message: 169 sent: 1298074771583
+91   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771584
+91   [main] INFO  com.data.sockets.SocketSender  - Sending message: 170 sent: 1298074771584
+91   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771584
+91   [main] INFO  com.data.sockets.SocketSender  - Sending message: 171 sent: 1298074771584
+91   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771584
+91   [main] INFO  com.data.sockets.SocketSender  - Sending message: 172 sent: 1298074771584
+92   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771585
+92   [main] INFO  com.data.sockets.SocketSender  - Sending message: 173 sent: 1298074771585
+92   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771585
+92   [main] INFO  com.data.sockets.SocketSender  - Sending message: 174 sent: 1298074771585
+92   [main] INFO  com.data.sockets.SocketSender  - Sending message: 175 sent: 1298074771585
+92   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771585
+93   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771586
+93   [main] INFO  com.data.sockets.SocketSender  - Sending message: 176 sent: 1298074771586
+93   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771586
+93   [main] INFO  com.data.sockets.SocketSender  - Sending message: 177 sent: 1298074771586
+93   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771586
+93   [main] INFO  com.data.sockets.SocketSender  - Sending message: 178 sent: 1298074771586
+94   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771587
+94   [main] INFO  com.data.sockets.SocketSender  - Sending message: 179 sent: 1298074771587
+94   [main] INFO  com.data.sockets.SocketSender  - Sending message: 180 sent: 1298074771587
+94   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771587
+94   [main] INFO  com.data.sockets.SocketSender  - Sending message: 181 sent: 1298074771587
+94   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771587
+95   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771588
+95   [main] INFO  com.data.sockets.SocketSender  - Sending message: 182 sent: 1298074771588
+95   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771588
+95   [main] INFO  com.data.sockets.SocketSender  - Sending message: 183 sent: 1298074771588
+95   [main] INFO  com.data.sockets.SocketSender  - Sending message: 184 sent: 1298074771588
+95   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771588
+96   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771589
+96   [main] INFO  com.data.sockets.SocketSender  - Sending message: 185 sent: 1298074771589
+96   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771589
+96   [main] INFO  com.data.sockets.SocketSender  - Sending message: 186 sent: 1298074771589
+97   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771589
+97   [main] INFO  com.data.sockets.SocketSender  - Sending message: 187 sent: 1298074771590
+97   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771590
+97   [main] INFO  com.data.sockets.SocketSender  - Sending message: 188 sent: 1298074771590
+97   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771590
+97   [main] INFO  com.data.sockets.SocketSender  - Sending message: 189 sent: 1298074771590
+98   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771591
+98   [main] INFO  com.data.sockets.SocketSender  - Sending message: 190 sent: 1298074771591
+98   [main] INFO  com.data.sockets.SocketSender  - Sending message: 191 sent: 1298074771591
+98   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771591
+98   [main] INFO  com.data.sockets.SocketSender  - Sending message: 192 sent: 1298074771591
+98   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771591
+99   [main] INFO  com.data.sockets.SocketSender  - Sending message: 193 sent: 1298074771592
+99   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771592
+99   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771592
+99   [main] INFO  com.data.sockets.SocketSender  - Sending message: 194 sent: 1298074771592
+99   [main] INFO  com.data.sockets.SocketSender  - Sending message: 195 sent: 1298074771592
+99   [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771592
+100  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771593
+100  [main] INFO  com.data.sockets.SocketSender  - Sending message: 196 sent: 1298074771593
+100  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771593
+100  [main] INFO  com.data.sockets.SocketSender  - Sending message: 197 sent: 1298074771593
+100  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771593
+100  [main] INFO  com.data.sockets.SocketSender  - Sending message: 198 sent: 1298074771593
+101  [main] INFO  com.data.sockets.SocketSender  - Sending message: 199 sent: 1298074771594
+101  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771594
+101  [main] INFO  com.data.sockets.SocketSender  - Sending message: 200 sent: 1298074771594
+101  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771594
+101  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771594
+101  [main] INFO  com.data.sockets.SocketSender  - Sending message: 201 sent: 1298074771594
+101  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771594
+101  [main] INFO  com.data.sockets.SocketSender  - Sending message: 202 sent: 1298074771594
+102  [main] INFO  com.data.sockets.SocketSender  - Sending message: 203 sent: 1298074771595
+102  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771595
+102  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771595
+102  [main] INFO  com.data.sockets.SocketSender  - Sending message: 204 sent: 1298074771595
+102  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771595
+102  [main] INFO  com.data.sockets.SocketSender  - Sending message: 205 sent: 1298074771595
+103  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771596
+103  [main] INFO  com.data.sockets.SocketSender  - Sending message: 206 sent: 1298074771596
+103  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771596
+103  [main] INFO  com.data.sockets.SocketSender  - Sending message: 207 sent: 1298074771596
+103  [main] INFO  com.data.sockets.SocketSender  - Sending message: 208 sent: 1298074771596
+103  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771596
+104  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771597
+104  [main] INFO  com.data.sockets.SocketSender  - Sending message: 209 sent: 1298074771597
+104  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771597
+104  [main] INFO  com.data.sockets.SocketSender  - Sending message: 210 sent: 1298074771597
+104  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771597
+104  [main] INFO  com.data.sockets.SocketSender  - Sending message: 211 sent: 1298074771597
+105  [main] INFO  com.data.sockets.SocketSender  - Sending message: 212 sent: 1298074771598
+105  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771598
+105  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771598
+105  [main] INFO  com.data.sockets.SocketSender  - Sending message: 213 sent: 1298074771598
+105  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771598
+105  [main] INFO  com.data.sockets.SocketSender  - Sending message: 214 sent: 1298074771598
+106  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771599
+106  [main] INFO  com.data.sockets.SocketSender  - Sending message: 215 sent: 1298074771599
+106  [main] INFO  com.data.sockets.SocketSender  - Sending message: 216 sent: 1298074771599
+106  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771599
+106  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771599
+106  [main] INFO  com.data.sockets.SocketSender  - Sending message: 217 sent: 1298074771599
+107  [main] INFO  com.data.sockets.SocketSender  - Sending message: 218 sent: 1298074771600
+107  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771600
+107  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771600
+107  [main] INFO  com.data.sockets.SocketSender  - Sending message: 219 sent: 1298074771600
+107  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771600
+107  [main] INFO  com.data.sockets.SocketSender  - Sending message: 220 sent: 1298074771600
+108  [main] INFO  com.data.sockets.SocketSender  - Sending message: 221 sent: 1298074771601
+108  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771601
+108  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771601
+108  [main] INFO  com.data.sockets.SocketSender  - Sending message: 222 sent: 1298074771601
+108  [main] INFO  com.data.sockets.SocketSender  - Sending message: 223 sent: 1298074771601
+108  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771601
+109  [main] INFO  com.data.sockets.SocketSender  - Sending message: 224 sent: 1298074771602
+109  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771602
+109  [main] INFO  com.data.sockets.SocketSender  - Sending message: 225 sent: 1298074771602
+109  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771602
+109  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771602
+109  [main] INFO  com.data.sockets.SocketSender  - Sending message: 226 sent: 1298074771602
+109  [main] INFO  com.data.sockets.SocketSender  - Sending message: 227 sent: 1298074771602
+110  [main] INFO  com.data.sockets.SocketSender  - Sending message: 228 sent: 1298074771603
+110  [main] INFO  com.data.sockets.SocketSender  - Sending message: 229 sent: 1298074771603
+111  [main] INFO  com.data.sockets.SocketSender  - Sending message: 230 sent: 1298074771604
+111  [main] INFO  com.data.sockets.SocketSender  - Sending message: 231 sent: 1298074771604
+111  [main] INFO  com.data.sockets.SocketSender  - Sending message: 232 sent: 1298074771604
+112  [main] INFO  com.data.sockets.SocketSender  - Sending message: 233 sent: 1298074771605
+112  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771605
+112  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771605
+112  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771605
+112  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771605
+112  [main] INFO  com.data.sockets.SocketSender  - Sending message: 234 sent: 1298074771605
+112  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771605
+112  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771605
+112  [main] INFO  com.data.sockets.SocketSender  - Sending message: 235 sent: 1298074771605
+112  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771605
+113  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771606
+113  [main] INFO  com.data.sockets.SocketSender  - Sending message: 236 sent: 1298074771606
+113  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771606
+113  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771606
+113  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771606
+113  [main] INFO  com.data.sockets.SocketSender  - Sending message: 237 sent: 1298074771606
+113  [main] INFO  com.data.sockets.SocketSender  - Sending message: 238 sent: 1298074771606
+113  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771606
+114  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771607
+114  [main] INFO  com.data.sockets.SocketSender  - Sending message: 239 sent: 1298074771607
+114  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771607
+114  [main] INFO  com.data.sockets.SocketSender  - Sending message: 240 sent: 1298074771607
+114  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771607
+114  [main] INFO  com.data.sockets.SocketSender  - Sending message: 241 sent: 1298074771607
+115  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771608
+115  [main] INFO  com.data.sockets.SocketSender  - Sending message: 242 sent: 1298074771608
+115  [main] INFO  com.data.sockets.SocketSender  - Sending message: 243 sent: 1298074771608
+115  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771608
+115  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771608
+115  [main] INFO  com.data.sockets.SocketSender  - Sending message: 244 sent: 1298074771608
+116  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771608
+116  [main] INFO  com.data.sockets.SocketSender  - Sending message: 245 sent: 1298074771608
+116  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771609
+116  [main] INFO  com.data.sockets.SocketSender  - Sending message: 246 sent: 1298074771609
+116  [main] INFO  com.data.sockets.SocketSender  - Sending message: 247 sent: 1298074771609
+116  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771609
+116  [main] INFO  com.data.sockets.SocketSender  - Sending message: 248 sent: 1298074771609
+116  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771609
+117  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771610
+117  [main] INFO  com.data.sockets.SocketSender  - Sending message: 249 sent: 1298074771610
+117  [main] INFO  com.data.sockets.SocketSender  - Sending message: 250 sent: 1298074771610
+117  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771610
+117  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771610
+117  [main] INFO  com.data.sockets.SocketSender  - Sending message: 251 sent: 1298074771610
+118  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771611
+118  [main] INFO  com.data.sockets.SocketSender  - Sending message: 252 sent: 1298074771611
+118  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771611
+118  [main] INFO  com.data.sockets.SocketSender  - Sending message: 253 sent: 1298074771611
+118  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771611
+118  [main] INFO  com.data.sockets.SocketSender  - Sending message: 254 sent: 1298074771611
+119  [main] INFO  com.data.sockets.SocketSender  - Sending message: 255 sent: 1298074771612
+119  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771612
+119  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771612
+119  [main] INFO  com.data.sockets.SocketSender  - Sending message: 256 sent: 1298074771612
+119  [main] INFO  com.data.sockets.SocketSender  - Sending message: 257 sent: 1298074771612
+119  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771612
+120  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771613
+120  [main] INFO  com.data.sockets.SocketSender  - Sending message: 258 sent: 1298074771613
+120  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771613
+120  [main] INFO  com.data.sockets.SocketSender  - Sending message: 259 sent: 1298074771613
+121  [main] INFO  com.data.sockets.SocketSender  - Sending message: 260 sent: 1298074771614
+121  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771614
+121  [main] INFO  com.data.sockets.SocketSender  - Sending message: 261 sent: 1298074771614
+121  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771614
+122  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771615
+122  [main] INFO  com.data.sockets.SocketSender  - Sending message: 262 sent: 1298074771615
+123  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771616
+123  [main] INFO  com.data.sockets.SocketSender  - Sending message: 263 sent: 1298074771616
+123  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771616
+123  [main] INFO  com.data.sockets.SocketSender  - Sending message: 264 sent: 1298074771616
+124  [main] INFO  com.data.sockets.SocketSender  - Sending message: 265 sent: 1298074771617
+124  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771617
+124  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771617
+124  [main] INFO  com.data.sockets.SocketSender  - Sending message: 266 sent: 1298074771617
+124  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771617
+124  [main] INFO  com.data.sockets.SocketSender  - Sending message: 267 sent: 1298074771617
+125  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771618
+125  [main] INFO  com.data.sockets.SocketSender  - Sending message: 268 sent: 1298074771618
+125  [main] INFO  com.data.sockets.SocketSender  - Sending message: 269 sent: 1298074771618
+125  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771618
+125  [main] INFO  com.data.sockets.SocketSender  - Sending message: 270 sent: 1298074771618
+126  [main] INFO  com.data.sockets.SocketSender  - Sending message: 271 sent: 1298074771619
+126  [main] INFO  com.data.sockets.SocketSender  - Sending message: 272 sent: 1298074771619
+127  [main] INFO  com.data.sockets.SocketSender  - Sending message: 273 sent: 1298074771620
+127  [main] INFO  com.data.sockets.SocketSender  - Sending message: 274 sent: 1298074771620
+127  [main] INFO  com.data.sockets.SocketSender  - Sending message: 275 sent: 1298074771620
+128  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771621
+128  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771621
+128  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771621
+128  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771621
+128  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771621
+128  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771621
+128  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771621
+128  [main] INFO  com.data.sockets.SocketSender  - Sending message: 276 sent: 1298074771621
+129  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771622
+129  [main] INFO  com.data.sockets.SocketSender  - Sending message: 277 sent: 1298074771622
+129  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771622
+129  [main] INFO  com.data.sockets.SocketSender  - Sending message: 278 sent: 1298074771622
+130  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771623
+130  [main] INFO  com.data.sockets.SocketSender  - Sending message: 279 sent: 1298074771623
+130  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771623
+130  [main] INFO  com.data.sockets.SocketSender  - Sending message: 280 sent: 1298074771623
+131  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771624
+131  [main] INFO  com.data.sockets.SocketSender  - Sending message: 281 sent: 1298074771624
+131  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771624
+131  [main] INFO  com.data.sockets.SocketSender  - Sending message: 282 sent: 1298074771624
+132  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771625
+132  [main] INFO  com.data.sockets.SocketSender  - Sending message: 283 sent: 1298074771625
+132  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771625
+132  [main] INFO  com.data.sockets.SocketSender  - Sending message: 284 sent: 1298074771625
+133  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771626
+133  [main] INFO  com.data.sockets.SocketSender  - Sending message: 285 sent: 1298074771626
+133  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771626
+133  [main] INFO  com.data.sockets.SocketSender  - Sending message: 286 sent: 1298074771626
+134  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771627
+134  [main] INFO  com.data.sockets.SocketSender  - Sending message: 287 sent: 1298074771627
+134  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771627
+134  [main] INFO  com.data.sockets.SocketSender  - Sending message: 288 sent: 1298074771627
+135  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771628
+135  [main] INFO  com.data.sockets.SocketSender  - Sending message: 289 sent: 1298074771628
+157  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771650
+157  [main] INFO  com.data.sockets.SocketSender  - Sending message: 290 sent: 1298074771650
+158  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771651
+158  [main] INFO  com.data.sockets.SocketSender  - Sending message: 291 sent: 1298074771651
+158  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771651
+159  [main] INFO  com.data.sockets.SocketSender  - Sending message: 292 sent: 1298074771651
+159  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771652
+159  [main] INFO  com.data.sockets.SocketSender  - Sending message: 293 sent: 1298074771652
+171  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771664
+171  [main] INFO  com.data.sockets.SocketSender  - Sending message: 294 sent: 1298074771664
+171  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771664
+171  [main] INFO  com.data.sockets.SocketSender  - Sending message: 295 sent: 1298074771664
+172  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771665
+172  [main] INFO  com.data.sockets.SocketSender  - Sending message: 296 sent: 1298074771665
+172  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771665
+172  [main] INFO  com.data.sockets.SocketSender  - Sending message: 297 sent: 1298074771665
+173  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771666
+173  [main] INFO  com.data.sockets.SocketSender  - Sending message: 298 sent: 1298074771666
+173  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771666
+173  [main] INFO  com.data.sockets.SocketSender  - Sending message: 299 sent: 1298074771666
+174  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771667
+174  [main] INFO  com.data.sockets.SocketSender  - Sending message: 300 sent: 1298074771667
+174  [main] INFO  com.data.sockets.SocketSender  - Sending message: 301 sent: 1298074771667
+175  [main] INFO  com.data.sockets.SocketSender  - Sending message: 302 sent: 1298074771668
+175  [main] INFO  com.data.sockets.SocketSender  - Sending message: 303 sent: 1298074771668
+176  [main] INFO  com.data.sockets.SocketSender  - Sending message: 304 sent: 1298074771669
+176  [main] INFO  com.data.sockets.SocketSender  - Sending message: 305 sent: 1298074771669
+177  [main] INFO  com.data.sockets.SocketSender  - Sending message: 306 sent: 1298074771669
+177  [main] INFO  com.data.sockets.SocketSender  - Sending message: 307 sent: 1298074771670
+177  [main] INFO  com.data.sockets.SocketSender  - Sending message: 308 sent: 1298074771670
+178  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771670
+179  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771672
+179  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771672
+179  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771672
+179  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771672
+179  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771672
+179  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771672
+179  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771672
+180  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771673
+180  [main] INFO  com.data.sockets.SocketSender  - Sending message: 309 sent: 1298074771673
+180  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771673
+180  [main] INFO  com.data.sockets.SocketSender  - Sending message: 310 sent: 1298074771673
+181  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771673
+181  [main] INFO  com.data.sockets.SocketSender  - Sending message: 311 sent: 1298074771674
+182  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771675
+182  [main] INFO  com.data.sockets.SocketSender  - Sending message: 312 sent: 1298074771675
+182  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771675
+182  [main] INFO  com.data.sockets.SocketSender  - Sending message: 313 sent: 1298074771675
+183  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771676
+183  [main] INFO  com.data.sockets.SocketSender  - Sending message: 314 sent: 1298074771676
+183  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771676
+183  [main] INFO  com.data.sockets.SocketSender  - Sending message: 315 sent: 1298074771676
+184  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771677
+184  [main] INFO  com.data.sockets.SocketSender  - Sending message: 316 sent: 1298074771677
+185  [main] INFO  com.data.sockets.SocketSender  - Sending message: 317 sent: 1298074771678
+185  [main] INFO  com.data.sockets.SocketSender  - Sending message: 318 sent: 1298074771678
+185  [main] INFO  com.data.sockets.SocketSender  - Sending message: 319 sent: 1298074771678
+186  [main] INFO  com.data.sockets.SocketSender  - Sending message: 320 sent: 1298074771679
+186  [main] INFO  com.data.sockets.SocketSender  - Sending message: 321 sent: 1298074771679
+186  [main] INFO  com.data.sockets.SocketSender  - Sending message: 322 sent: 1298074771679
+187  [main] INFO  com.data.sockets.SocketSender  - Sending message: 323 sent: 1298074771680
+187  [main] INFO  com.data.sockets.SocketSender  - Sending message: 324 sent: 1298074771680
+188  [main] INFO  com.data.sockets.SocketSender  - Sending message: 325 sent: 1298074771681
+188  [main] INFO  com.data.sockets.SocketSender  - Sending message: 326 sent: 1298074771681
+188  [main] INFO  com.data.sockets.SocketSender  - Sending message: 327 sent: 1298074771681
+189  [main] INFO  com.data.sockets.SocketSender  - Sending message: 328 sent: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+189  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771682
+190  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771683
+190  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771683
+190  [main] INFO  com.data.sockets.SocketSender  - Sending message: 329 sent: 1298074771683
+191  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771684
+191  [main] INFO  com.data.sockets.SocketSender  - Sending message: 330 sent: 1298074771684
+191  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771684
+191  [main] INFO  com.data.sockets.SocketSender  - Sending message: 331 sent: 1298074771684
+192  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771685
+192  [main] INFO  com.data.sockets.SocketSender  - Sending message: 332 sent: 1298074771685
+192  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771685
+192  [main] INFO  com.data.sockets.SocketSender  - Sending message: 333 sent: 1298074771685
+192  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771685
+193  [main] INFO  com.data.sockets.SocketSender  - Sending message: 334 sent: 1298074771686
+193  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771686
+193  [main] INFO  com.data.sockets.SocketSender  - Sending message: 335 sent: 1298074771686
+193  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771686
+193  [main] INFO  com.data.sockets.SocketSender  - Sending message: 336 sent: 1298074771686
+194  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771687
+194  [main] INFO  com.data.sockets.SocketSender  - Sending message: 337 sent: 1298074771687
+194  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771687
+194  [main] INFO  com.data.sockets.SocketSender  - Sending message: 338 sent: 1298074771687
+195  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771688
+195  [main] INFO  com.data.sockets.SocketSender  - Sending message: 339 sent: 1298074771688
+195  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771688
+195  [main] INFO  com.data.sockets.SocketSender  - Sending message: 340 sent: 1298074771688
+196  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771689
+196  [main] INFO  com.data.sockets.SocketSender  - Sending message: 341 sent: 1298074771689
+196  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771689
+196  [main] INFO  com.data.sockets.SocketSender  - Sending message: 342 sent: 1298074771689
+196  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771689
+196  [main] INFO  com.data.sockets.SocketSender  - Sending message: 343 sent: 1298074771689
+197  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771690
+197  [main] INFO  com.data.sockets.SocketSender  - Sending message: 344 sent: 1298074771690
+197  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771690
+197  [main] INFO  com.data.sockets.SocketSender  - Sending message: 345 sent: 1298074771690
+198  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771691
+198  [main] INFO  com.data.sockets.SocketSender  - Sending message: 346 sent: 1298074771691
+198  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771691
+198  [main] INFO  com.data.sockets.SocketSender  - Sending message: 347 sent: 1298074771691
+199  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771692
+199  [main] INFO  com.data.sockets.SocketSender  - Sending message: 348 sent: 1298074771692
+199  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771692
+199  [main] INFO  com.data.sockets.SocketSender  - Sending message: 349 sent: 1298074771692
+199  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771692
+200  [main] INFO  com.data.sockets.SocketSender  - Sending message: 350 sent: 1298074771693
+200  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771693
+200  [main] INFO  com.data.sockets.SocketSender  - Sending message: 351 sent: 1298074771693
+200  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771693
+200  [main] INFO  com.data.sockets.SocketSender  - Sending message: 352 sent: 1298074771693
+201  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771694
+201  [main] INFO  com.data.sockets.SocketSender  - Sending message: 353 sent: 1298074771694
+201  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771694
+201  [main] INFO  com.data.sockets.SocketSender  - Sending message: 354 sent: 1298074771694
+202  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771695
+202  [main] INFO  com.data.sockets.SocketSender  - Sending message: 355 sent: 1298074771695
+202  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771695
+202  [main] INFO  com.data.sockets.SocketSender  - Sending message: 356 sent: 1298074771695
+202  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771695
+203  [main] INFO  com.data.sockets.SocketSender  - Sending message: 357 sent: 1298074771696
+203  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771696
+203  [main] INFO  com.data.sockets.SocketSender  - Sending message: 358 sent: 1298074771696
+203  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771696
+203  [main] INFO  com.data.sockets.SocketSender  - Sending message: 359 sent: 1298074771696
+204  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771697
+204  [main] INFO  com.data.sockets.SocketSender  - Sending message: 360 sent: 1298074771697
+204  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771697
+204  [main] INFO  com.data.sockets.SocketSender  - Sending message: 361 sent: 1298074771697
+205  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771698
+205  [main] INFO  com.data.sockets.SocketSender  - Sending message: 362 sent: 1298074771698
+205  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771698
+205  [main] INFO  com.data.sockets.SocketSender  - Sending message: 363 sent: 1298074771698
+206  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771699
+206  [main] INFO  com.data.sockets.SocketSender  - Sending message: 364 sent: 1298074771699
+206  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771699
+206  [main] INFO  com.data.sockets.SocketSender  - Sending message: 365 sent: 1298074771699
+207  [main] INFO  com.data.sockets.SocketSender  - Sending message: 366 sent: 1298074771700
+207  [main] INFO  com.data.sockets.SocketSender  - Sending message: 367 sent: 1298074771700
+208  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771701
+208  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771701
+211  [main] INFO  com.data.sockets.SocketSender  - Sending message: 368 sent: 1298074771704
+212  [main] INFO  com.data.sockets.SocketSender  - Sending message: 369 sent: 1298074771705
+212  [main] INFO  com.data.sockets.SocketSender  - Sending message: 370 sent: 1298074771705
+213  [main] INFO  com.data.sockets.SocketSender  - Sending message: 371 sent: 1298074771706
+213  [main] INFO  com.data.sockets.SocketSender  - Sending message: 372 sent: 1298074771706
+213  [main] INFO  com.data.sockets.SocketSender  - Sending message: 373 sent: 1298074771706
+214  [main] INFO  com.data.sockets.SocketSender  - Sending message: 374 sent: 1298074771707
+214  [main] INFO  com.data.sockets.SocketSender  - Sending message: 375 sent: 1298074771707
+214  [main] INFO  com.data.sockets.SocketSender  - Sending message: 376 sent: 1298074771707
+214  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771707
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [main] INFO  com.data.sockets.SocketSender  - Sending message: 377 sent: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [main] INFO  com.data.sockets.SocketSender  - Sending message: 378 sent: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771708
+215  [main] INFO  com.data.sockets.SocketSender  - Sending message: 379 sent: 1298074771708
+216  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771709
+216  [main] INFO  com.data.sockets.SocketSender  - Sending message: 380 sent: 1298074771709
+216  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771709
+216  [main] INFO  com.data.sockets.SocketSender  - Sending message: 381 sent: 1298074771709
+216  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771709
+216  [main] INFO  com.data.sockets.SocketSender  - Sending message: 382 sent: 1298074771709
+217  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771710
+217  [main] INFO  com.data.sockets.SocketSender  - Sending message: 383 sent: 1298074771710
+217  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771710
+217  [main] INFO  com.data.sockets.SocketSender  - Sending message: 384 sent: 1298074771710
+217  [main] INFO  com.data.sockets.SocketSender  - Sending message: 385 sent: 1298074771710
+218  [main] INFO  com.data.sockets.SocketSender  - Sending message: 386 sent: 1298074771711
+218  [main] INFO  com.data.sockets.SocketSender  - Sending message: 387 sent: 1298074771711
+219  [main] INFO  com.data.sockets.SocketSender  - Sending message: 388 sent: 1298074771712
+219  [main] INFO  com.data.sockets.SocketSender  - Sending message: 389 sent: 1298074771712
+219  [main] INFO  com.data.sockets.SocketSender  - Sending message: 390 sent: 1298074771712
+220  [main] INFO  com.data.sockets.SocketSender  - Sending message: 391 sent: 1298074771713
+220  [main] INFO  com.data.sockets.SocketSender  - Sending message: 392 sent: 1298074771713
+220  [main] INFO  com.data.sockets.SocketSender  - Sending message: 393 sent: 1298074771713
+221  [main] INFO  com.data.sockets.SocketSender  - Sending message: 394 sent: 1298074771714
+221  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771714
+221  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771714
+221  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771714
+221  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771714
+221  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771714
+221  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771714
+222  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771715
+222  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771715
+222  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771715
+222  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771715
+222  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771715
+222  [main] INFO  com.data.sockets.SocketSender  - Sending message: 395 sent: 1298074771715
+222  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771715
+222  [main] INFO  com.data.sockets.SocketSender  - Sending message: 396 sent: 1298074771715
+223  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771716
+223  [main] INFO  com.data.sockets.SocketSender  - Sending message: 397 sent: 1298074771716
+225  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771718
+225  [main] INFO  com.data.sockets.SocketSender  - Sending message: 398 sent: 1298074771718
+225  [main] INFO  com.data.sockets.SocketSender  - Sending message: 399 sent: 1298074771718
+225  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771718
+225  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771718
+225  [main] INFO  com.data.sockets.SocketSender  - Sending message: 400 sent: 1298074771718
+226  [main] INFO  com.data.sockets.SocketSender  - Sending message: 401 sent: 1298074771719
+226  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771719
+226  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771719
+226  [main] INFO  com.data.sockets.SocketSender  - Sending message: 402 sent: 1298074771719
+226  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771719
+226  [main] INFO  com.data.sockets.SocketSender  - Sending message: 403 sent: 1298074771719
+227  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771720
+227  [main] INFO  com.data.sockets.SocketSender  - Sending message: 404 sent: 1298074771720
+227  [main] INFO  com.data.sockets.SocketSender  - Sending message: 405 sent: 1298074771720
+227  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771720
+227  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771720
+227  [main] INFO  com.data.sockets.SocketSender  - Sending message: 406 sent: 1298074771720
+227  [main] INFO  com.data.sockets.SocketSender  - Sending message: 407 sent: 1298074771720
+227  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771720
+228  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771721
+228  [main] INFO  com.data.sockets.SocketSender  - Sending message: 408 sent: 1298074771721
+228  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771721
+228  [main] INFO  com.data.sockets.SocketSender  - Sending message: 409 sent: 1298074771721
+228  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771721
+228  [main] INFO  com.data.sockets.SocketSender  - Sending message: 410 sent: 1298074771721
+229  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771722
+229  [main] INFO  com.data.sockets.SocketSender  - Sending message: 411 sent: 1298074771722
+229  [main] INFO  com.data.sockets.SocketSender  - Sending message: 412 sent: 1298074771722
+229  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771722
+229  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771722
+229  [main] INFO  com.data.sockets.SocketSender  - Sending message: 413 sent: 1298074771722
+230  [main] INFO  com.data.sockets.SocketSender  - Sending message: 414 sent: 1298074771723
+230  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771723
+230  [main] INFO  com.data.sockets.SocketSender  - Sending message: 415 sent: 1298074771723
+230  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771723
+230  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771723
+230  [main] INFO  com.data.sockets.SocketSender  - Sending message: 416 sent: 1298074771723
+231  [main] INFO  com.data.sockets.SocketSender  - Sending message: 417 sent: 1298074771724
+231  [main] INFO  com.data.sockets.SocketSender  - Sending message: 418 sent: 1298074771724
+231  [main] INFO  com.data.sockets.SocketSender  - Sending message: 419 sent: 1298074771724
+232  [main] INFO  com.data.sockets.SocketSender  - Sending message: 420 sent: 1298074771725
+232  [main] INFO  com.data.sockets.SocketSender  - Sending message: 421 sent: 1298074771725
+232  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771725
+232  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771725
+232  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771725
+232  [main] INFO  com.data.sockets.SocketSender  - Sending message: 422 sent: 1298074771725
+233  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771726
+233  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771726
+233  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771726
+233  [main] INFO  com.data.sockets.SocketSender  - Sending message: 423 sent: 1298074771726
+233  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771726
+233  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771726
+233  [main] INFO  com.data.sockets.SocketSender  - Sending message: 424 sent: 1298074771726
+233  [main] INFO  com.data.sockets.SocketSender  - Sending message: 425 sent: 1298074771726
+233  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771726
+234  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771727
+234  [main] INFO  com.data.sockets.SocketSender  - Sending message: 426 sent: 1298074771727
+234  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771727
+234  [main] INFO  com.data.sockets.SocketSender  - Sending message: 427 sent: 1298074771727
+234  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771727
+234  [main] INFO  com.data.sockets.SocketSender  - Sending message: 428 sent: 1298074771727
+235  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771728
+235  [main] INFO  com.data.sockets.SocketSender  - Sending message: 429 sent: 1298074771728
+235  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771728
+235  [main] INFO  com.data.sockets.SocketSender  - Sending message: 430 sent: 1298074771728
+235  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771728
+235  [main] INFO  com.data.sockets.SocketSender  - Sending message: 431 sent: 1298074771728
+236  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771729
+236  [main] INFO  com.data.sockets.SocketSender  - Sending message: 432 sent: 1298074771729
+236  [main] INFO  com.data.sockets.SocketSender  - Sending message: 433 sent: 1298074771729
+236  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771729
+236  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771729
+236  [main] INFO  com.data.sockets.SocketSender  - Sending message: 434 sent: 1298074771729
+237  [main] INFO  com.data.sockets.SocketSender  - Sending message: 435 sent: 1298074771730
+237  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771730
+237  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771730
+237  [main] INFO  com.data.sockets.SocketSender  - Sending message: 436 sent: 1298074771730
+237  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771730
+237  [main] INFO  com.data.sockets.SocketSender  - Sending message: 437 sent: 1298074771730
+238  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771731
+238  [main] INFO  com.data.sockets.SocketSender  - Sending message: 438 sent: 1298074771731
+238  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771731
+238  [main] INFO  com.data.sockets.SocketSender  - Sending message: 439 sent: 1298074771731
+239  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771732
+239  [main] INFO  com.data.sockets.SocketSender  - Sending message: 440 sent: 1298074771732
+239  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771732
+239  [main] INFO  com.data.sockets.SocketSender  - Sending message: 441 sent: 1298074771732
+239  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771732
+239  [main] INFO  com.data.sockets.SocketSender  - Sending message: 442 sent: 1298074771732
+240  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771733
+240  [main] INFO  com.data.sockets.SocketSender  - Sending message: 443 sent: 1298074771733
+240  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771733
+240  [main] INFO  com.data.sockets.SocketSender  - Sending message: 444 sent: 1298074771733
+241  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771734
+241  [main] INFO  com.data.sockets.SocketSender  - Sending message: 445 sent: 1298074771734
+241  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771734
+241  [main] INFO  com.data.sockets.SocketSender  - Sending message: 446 sent: 1298074771734
+242  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771735
+242  [main] INFO  com.data.sockets.SocketSender  - Sending message: 447 sent: 1298074771735
+242  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771735
+242  [main] INFO  com.data.sockets.SocketSender  - Sending message: 448 sent: 1298074771735
+242  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771735
+242  [main] INFO  com.data.sockets.SocketSender  - Sending message: 449 sent: 1298074771735
+243  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771736
+243  [main] INFO  com.data.sockets.SocketSender  - Sending message: 450 sent: 1298074771736
+243  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771736
+243  [main] INFO  com.data.sockets.SocketSender  - Sending message: 451 sent: 1298074771736
+244  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771737
+244  [main] INFO  com.data.sockets.SocketSender  - Sending message: 452 sent: 1298074771737
+244  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771737
+244  [main] INFO  com.data.sockets.SocketSender  - Sending message: 453 sent: 1298074771737
+245  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771738
+245  [main] INFO  com.data.sockets.SocketSender  - Sending message: 454 sent: 1298074771738
+245  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771738
+245  [main] INFO  com.data.sockets.SocketSender  - Sending message: 455 sent: 1298074771738
+245  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771738
+246  [main] INFO  com.data.sockets.SocketSender  - Sending message: 456 sent: 1298074771739
+246  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771739
+246  [main] INFO  com.data.sockets.SocketSender  - Sending message: 457 sent: 1298074771739
+246  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771739
+246  [main] INFO  com.data.sockets.SocketSender  - Sending message: 458 sent: 1298074771739
+247  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771740
+247  [main] INFO  com.data.sockets.SocketSender  - Sending message: 459 sent: 1298074771740
+248  [main] INFO  com.data.sockets.SocketSender  - Sending message: 460 sent: 1298074771741
+248  [main] INFO  com.data.sockets.SocketSender  - Sending message: 461 sent: 1298074771741
+248  [main] INFO  com.data.sockets.SocketSender  - Sending message: 462 sent: 1298074771741
+249  [main] INFO  com.data.sockets.SocketSender  - Sending message: 463 sent: 1298074771742
+249  [main] INFO  com.data.sockets.SocketSender  - Sending message: 464 sent: 1298074771742
+249  [main] INFO  com.data.sockets.SocketSender  - Sending message: 465 sent: 1298074771742
+250  [main] INFO  com.data.sockets.SocketSender  - Sending message: 466 sent: 1298074771743
+250  [main] INFO  com.data.sockets.SocketSender  - Sending message: 467 sent: 1298074771743
+250  [main] INFO  com.data.sockets.SocketSender  - Sending message: 468 sent: 1298074771743
+251  [main] INFO  com.data.sockets.SocketSender  - Sending message: 469 sent: 1298074771744
+251  [main] INFO  com.data.sockets.SocketSender  - Sending message: 470 sent: 1298074771744
+251  [main] INFO  com.data.sockets.SocketSender  - Sending message: 471 sent: 1298074771744
+252  [main] INFO  com.data.sockets.SocketSender  - Sending message: 472 sent: 1298074771745
+252  [main] INFO  com.data.sockets.SocketSender  - Sending message: 473 sent: 1298074771745
+253  [main] INFO  com.data.sockets.SocketSender  - Sending message: 474 sent: 1298074771746
+253  [main] INFO  com.data.sockets.SocketSender  - Sending message: 475 sent: 1298074771746
+253  [main] INFO  com.data.sockets.SocketSender  - Sending message: 476 sent: 1298074771746
+254  [main] INFO  com.data.sockets.SocketSender  - Sending message: 477 sent: 1298074771747
+254  [main] INFO  com.data.sockets.SocketSender  - Sending message: 478 sent: 1298074771747
+254  [main] INFO  com.data.sockets.SocketSender  - Sending message: 479 sent: 1298074771747
+255  [main] INFO  com.data.sockets.SocketSender  - Sending message: 480 sent: 1298074771748
+255  [main] INFO  com.data.sockets.SocketSender  - Sending message: 481 sent: 1298074771748
+256  [main] INFO  com.data.sockets.SocketSender  - Sending message: 482 sent: 1298074771749
+256  [main] INFO  com.data.sockets.SocketSender  - Sending message: 483 sent: 1298074771749
+256  [main] INFO  com.data.sockets.SocketSender  - Sending message: 484 sent: 1298074771749
+257  [main] INFO  com.data.sockets.SocketSender  - Sending message: 485 sent: 1298074771750
+257  [main] INFO  com.data.sockets.SocketSender  - Sending message: 486 sent: 1298074771750
+257  [main] INFO  com.data.sockets.SocketSender  - Sending message: 487 sent: 1298074771750
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [main] INFO  com.data.sockets.SocketSender  - Sending message: 488 sent: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [main] INFO  com.data.sockets.SocketSender  - Sending message: 489 sent: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [main] INFO  com.data.sockets.SocketSender  - Sending message: 490 sent: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771751
+258  [main] INFO  com.data.sockets.SocketSender  - Sending message: 491 sent: 1298074771751
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [main] INFO  com.data.sockets.SocketSender  - Sending message: 492 sent: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [main] INFO  com.data.sockets.SocketSender  - Sending message: 493 sent: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+259  [main] INFO  com.data.sockets.SocketSender  - Sending message: 494 sent: 1298074771752
+259  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771752
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [main] INFO  com.data.sockets.SocketSender  - Sending message: 495 sent: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [main] INFO  com.data.sockets.SocketSender  - Sending message: 496 sent: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [main] INFO  com.data.sockets.SocketSender  - Sending message: 497 sent: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+260  [main] INFO  com.data.sockets.SocketSender  - Sending message: 498 sent: 1298074771753
+260  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771753
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+261  [main] INFO  com.data.sockets.SocketSender  - Sending message: 499 sent: 1298074771754
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+261  [main] INFO  com.data.sockets.SocketSender  - Sending message: 500 sent: 1298074771754
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+261  [main] INFO  com.data.sockets.SocketSender  - Sending message: 501 sent: 1298074771754
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+261  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771754
+262  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771755
+262  [main] INFO  com.data.sockets.SocketSender  - Sending message: 502 sent: 1298074771755
+262  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771755
+262  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771755
+262  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771755
+262  [main] INFO  com.data.sockets.SocketSender  - Sending message: 503 sent: 1298074771755
+262  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771755
+262  [main] INFO  com.data.sockets.SocketSender  - Sending message: 504 sent: 1298074771755
+262  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771755
+262  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771755
+262  [main] INFO  com.data.sockets.SocketSender  - Sending message: 505 sent: 1298074771755
+263  [main] INFO  com.data.sockets.SocketSender  - Sending message: 506 sent: 1298074771756
+263  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771756
+263  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771756
+263  [main] INFO  com.data.sockets.SocketSender  - Sending message: 507 sent: 1298074771756
+263  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771756
+263  [main] INFO  com.data.sockets.SocketSender  - Sending message: 508 sent: 1298074771756
+264  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771757
+264  [main] INFO  com.data.sockets.SocketSender  - Sending message: 509 sent: 1298074771757
+264  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771757
+264  [main] INFO  com.data.sockets.SocketSender  - Sending message: 510 sent: 1298074771757
+264  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771757
+264  [main] INFO  com.data.sockets.SocketSender  - Sending message: 511 sent: 1298074771757
+265  [main] INFO  com.data.sockets.SocketSender  - Sending message: 512 sent: 1298074771758
+265  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771758
+265  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771758
+265  [main] INFO  com.data.sockets.SocketSender  - Sending message: 513 sent: 1298074771758
+265  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771758
+265  [main] INFO  com.data.sockets.SocketSender  - Sending message: 514 sent: 1298074771758
+266  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771759
+266  [main] INFO  com.data.sockets.SocketSender  - Sending message: 515 sent: 1298074771759
+266  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771759
+266  [main] INFO  com.data.sockets.SocketSender  - Sending message: 516 sent: 1298074771759
+266  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771759
+266  [main] INFO  com.data.sockets.SocketSender  - Sending message: 517 sent: 1298074771759
+266  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771759
+266  [main] INFO  com.data.sockets.SocketSender  - Sending message: 518 sent: 1298074771759
+267  [main] INFO  com.data.sockets.SocketSender  - Sending message: 519 sent: 1298074771760
+267  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771760
+267  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771760
+267  [main] INFO  com.data.sockets.SocketSender  - Sending message: 520 sent: 1298074771760
+267  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771760
+267  [main] INFO  com.data.sockets.SocketSender  - Sending message: 521 sent: 1298074771760
+268  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771761
+268  [main] INFO  com.data.sockets.SocketSender  - Sending message: 522 sent: 1298074771761
+268  [main] INFO  com.data.sockets.SocketSender  - Sending message: 523 sent: 1298074771761
+268  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771761
+268  [main] INFO  com.data.sockets.SocketSender  - Sending message: 524 sent: 1298074771761
+268  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771761
+269  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771762
+269  [main] INFO  com.data.sockets.SocketSender  - Sending message: 525 sent: 1298074771762
+269  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771762
+269  [main] INFO  com.data.sockets.SocketSender  - Sending message: 526 sent: 1298074771762
+269  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771762
+269  [main] INFO  com.data.sockets.SocketSender  - Sending message: 527 sent: 1298074771762
+270  [main] INFO  com.data.sockets.SocketSender  - Sending message: 528 sent: 1298074771763
+270  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771763
+270  [main] INFO  com.data.sockets.SocketSender  - Sending message: 529 sent: 1298074771763
+270  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771763
+270  [main] INFO  com.data.sockets.SocketSender  - Sending message: 530 sent: 1298074771763
+270  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771763
+270  [main] INFO  com.data.sockets.SocketSender  - Sending message: 531 sent: 1298074771763
+270  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771763
+271  [main] INFO  com.data.sockets.SocketSender  - Sending message: 532 sent: 1298074771764
+271  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771764
+271  [main] INFO  com.data.sockets.SocketSender  - Sending message: 533 sent: 1298074771764
+271  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771764
+271  [main] INFO  com.data.sockets.SocketSender  - Sending message: 534 sent: 1298074771764
+271  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771764
+272  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771765
+272  [main] INFO  com.data.sockets.SocketSender  - Sending message: 535 sent: 1298074771765
+272  [main] INFO  com.data.sockets.SocketSender  - Sending message: 536 sent: 1298074771765
+272  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771765
+272  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771765
+272  [main] INFO  com.data.sockets.SocketSender  - Sending message: 537 sent: 1298074771765
+272  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771765
+272  [main] INFO  com.data.sockets.SocketSender  - Sending message: 538 sent: 1298074771765
+273  [main] INFO  com.data.sockets.SocketSender  - Sending message: 539 sent: 1298074771766
+273  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771766
+273  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771766
+273  [main] INFO  com.data.sockets.SocketSender  - Sending message: 540 sent: 1298074771766
+273  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771766
+273  [main] INFO  com.data.sockets.SocketSender  - Sending message: 541 sent: 1298074771766
+274  [main] INFO  com.data.sockets.SocketSender  - Sending message: 542 sent: 1298074771767
+274  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771767
+274  [main] INFO  com.data.sockets.SocketSender  - Sending message: 543 sent: 1298074771767
+274  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771767
+274  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771767
+274  [main] INFO  com.data.sockets.SocketSender  - Sending message: 544 sent: 1298074771767
+275  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771768
+275  [main] INFO  com.data.sockets.SocketSender  - Sending message: 545 sent: 1298074771768
+275  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771768
+275  [main] INFO  com.data.sockets.SocketSender  - Sending message: 546 sent: 1298074771768
+275  [main] INFO  com.data.sockets.SocketSender  - Sending message: 547 sent: 1298074771768
+275  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771768
+276  [main] INFO  com.data.sockets.SocketSender  - Sending message: 548 sent: 1298074771769
+276  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771769
+276  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771769
+276  [main] INFO  com.data.sockets.SocketSender  - Sending message: 549 sent: 1298074771769
+276  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771769
+276  [main] INFO  com.data.sockets.SocketSender  - Sending message: 550 sent: 1298074771769
+276  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771769
+276  [main] INFO  com.data.sockets.SocketSender  - Sending message: 551 sent: 1298074771769
+277  [main] INFO  com.data.sockets.SocketSender  - Sending message: 552 sent: 1298074771770
+277  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771770
+277  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771770
+277  [main] INFO  com.data.sockets.SocketSender  - Sending message: 553 sent: 1298074771770
+277  [main] INFO  com.data.sockets.SocketSender  - Sending message: 554 sent: 1298074771770
+277  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771770
+278  [main] INFO  com.data.sockets.SocketSender  - Sending message: 555 sent: 1298074771771
+278  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771771
+278  [main] INFO  com.data.sockets.SocketSender  - Sending message: 556 sent: 1298074771771
+278  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771771
+278  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771771
+278  [main] INFO  com.data.sockets.SocketSender  - Sending message: 557 sent: 1298074771771
+279  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771772
+279  [main] INFO  com.data.sockets.SocketSender  - Sending message: 558 sent: 1298074771772
+279  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771772
+279  [main] INFO  com.data.sockets.SocketSender  - Sending message: 559 sent: 1298074771772
+279  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771772
+279  [main] INFO  com.data.sockets.SocketSender  - Sending message: 560 sent: 1298074771772
+280  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771773
+280  [main] INFO  com.data.sockets.SocketSender  - Sending message: 561 sent: 1298074771773
+280  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771773
+280  [main] INFO  com.data.sockets.SocketSender  - Sending message: 562 sent: 1298074771773
+280  [main] INFO  com.data.sockets.SocketSender  - Sending message: 563 sent: 1298074771773
+280  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771773
+280  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771773
+280  [main] INFO  com.data.sockets.SocketSender  - Sending message: 564 sent: 1298074771773
+281  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771774
+281  [main] INFO  com.data.sockets.SocketSender  - Sending message: 565 sent: 1298074771774
+281  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771774
+281  [main] INFO  com.data.sockets.SocketSender  - Sending message: 566 sent: 1298074771774
+281  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771774
+281  [main] INFO  com.data.sockets.SocketSender  - Sending message: 567 sent: 1298074771774
+282  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771775
+282  [main] INFO  com.data.sockets.SocketSender  - Sending message: 568 sent: 1298074771775
+282  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771775
+282  [main] INFO  com.data.sockets.SocketSender  - Sending message: 569 sent: 1298074771775
+282  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771775
+282  [main] INFO  com.data.sockets.SocketSender  - Sending message: 570 sent: 1298074771775
+283  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771776
+283  [main] INFO  com.data.sockets.SocketSender  - Sending message: 571 sent: 1298074771776
+283  [main] INFO  com.data.sockets.SocketSender  - Sending message: 572 sent: 1298074771776
+283  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771776
+283  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771776
+283  [main] INFO  com.data.sockets.SocketSender  - Sending message: 573 sent: 1298074771776
+284  [main] INFO  com.data.sockets.SocketSender  - Sending message: 574 sent: 1298074771777
+284  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771777
+284  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771777
+284  [main] INFO  com.data.sockets.SocketSender  - Sending message: 575 sent: 1298074771777
+284  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771777
+284  [main] INFO  com.data.sockets.SocketSender  - Sending message: 576 sent: 1298074771777
+285  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771778
+285  [main] INFO  com.data.sockets.SocketSender  - Sending message: 577 sent: 1298074771778
+285  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771778
+285  [main] INFO  com.data.sockets.SocketSender  - Sending message: 578 sent: 1298074771778
+285  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771778
+285  [main] INFO  com.data.sockets.SocketSender  - Sending message: 579 sent: 1298074771778
+286  [main] INFO  com.data.sockets.SocketSender  - Sending message: 580 sent: 1298074771779
+286  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771779
+286  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771779
+286  [main] INFO  com.data.sockets.SocketSender  - Sending message: 581 sent: 1298074771779
+286  [main] INFO  com.data.sockets.SocketSender  - Sending message: 582 sent: 1298074771779
+286  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771779
+287  [main] INFO  com.data.sockets.SocketSender  - Sending message: 583 sent: 1298074771780
+287  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771780
+287  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771780
+287  [main] INFO  com.data.sockets.SocketSender  - Sending message: 584 sent: 1298074771780
+287  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771780
+287  [main] INFO  com.data.sockets.SocketSender  - Sending message: 585 sent: 1298074771780
+288  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771781
+288  [main] INFO  com.data.sockets.SocketSender  - Sending message: 586 sent: 1298074771781
+288  [main] INFO  com.data.sockets.SocketSender  - Sending message: 587 sent: 1298074771781
+288  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771781
+288  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771781
+288  [main] INFO  com.data.sockets.SocketSender  - Sending message: 588 sent: 1298074771781
+288  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771781
+288  [main] INFO  com.data.sockets.SocketSender  - Sending message: 589 sent: 1298074771781
+289  [main] INFO  com.data.sockets.SocketSender  - Sending message: 590 sent: 1298074771782
+289  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771782
+289  [main] INFO  com.data.sockets.SocketSender  - Sending message: 591 sent: 1298074771782
+289  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771782
+289  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771782
+289  [main] INFO  com.data.sockets.SocketSender  - Sending message: 592 sent: 1298074771782
+290  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771783
+290  [main] INFO  com.data.sockets.SocketSender  - Sending message: 593 sent: 1298074771783
+290  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771783
+290  [main] INFO  com.data.sockets.SocketSender  - Sending message: 594 sent: 1298074771783
+290  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771783
+290  [main] INFO  com.data.sockets.SocketSender  - Sending message: 595 sent: 1298074771783
+291  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771784
+291  [main] INFO  com.data.sockets.SocketSender  - Sending message: 596 sent: 1298074771784
+291  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771784
+291  [main] INFO  com.data.sockets.SocketSender  - Sending message: 597 sent: 1298074771784
+291  [main] INFO  com.data.sockets.SocketSender  - Sending message: 598 sent: 1298074771784
+291  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771784
+292  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771785
+292  [main] INFO  com.data.sockets.SocketSender  - Sending message: 599 sent: 1298074771785
+292  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771785
+292  [main] INFO  com.data.sockets.SocketSender  - Sending message: 600 sent: 1298074771785
+292  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771785
+292  [main] INFO  com.data.sockets.SocketSender  - Sending message: 601 sent: 1298074771785
+293  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771786
+293  [main] INFO  com.data.sockets.SocketSender  - Sending message: 602 sent: 1298074771786
+293  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771786
+293  [main] INFO  com.data.sockets.SocketSender  - Sending message: 603 sent: 1298074771786
+293  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771786
+293  [main] INFO  com.data.sockets.SocketSender  - Sending message: 604 sent: 1298074771786
+293  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771786
+293  [main] INFO  com.data.sockets.SocketSender  - Sending message: 605 sent: 1298074771786
+294  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771787
+294  [main] INFO  com.data.sockets.SocketSender  - Sending message: 606 sent: 1298074771787
+294  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771787
+294  [main] INFO  com.data.sockets.SocketSender  - Sending message: 607 sent: 1298074771787
+294  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771787
+294  [main] INFO  com.data.sockets.SocketSender  - Sending message: 608 sent: 1298074771787
+295  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771788
+295  [main] INFO  com.data.sockets.SocketSender  - Sending message: 609 sent: 1298074771788
+295  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771788
+295  [main] INFO  com.data.sockets.SocketSender  - Sending message: 610 sent: 1298074771788
+295  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771788
+295  [main] INFO  com.data.sockets.SocketSender  - Sending message: 611 sent: 1298074771788
+296  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771789
+296  [main] INFO  com.data.sockets.SocketSender  - Sending message: 612 sent: 1298074771789
+296  [main] INFO  com.data.sockets.SocketSender  - Sending message: 613 sent: 1298074771789
+296  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771789
+296  [main] INFO  com.data.sockets.SocketSender  - Sending message: 614 sent: 1298074771789
+296  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771789
+297  [main] INFO  com.data.sockets.SocketSender  - Sending message: 615 sent: 1298074771790
+297  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771790
+297  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771790
+297  [main] INFO  com.data.sockets.SocketSender  - Sending message: 616 sent: 1298074771790
+297  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771790
+297  [main] INFO  com.data.sockets.SocketSender  - Sending message: 617 sent: 1298074771790
+298  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771791
+298  [main] INFO  com.data.sockets.SocketSender  - Sending message: 618 sent: 1298074771791
+298  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771791
+298  [main] INFO  com.data.sockets.SocketSender  - Sending message: 619 sent: 1298074771791
+298  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771791
+298  [main] INFO  com.data.sockets.SocketSender  - Sending message: 620 sent: 1298074771791
+299  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771792
+299  [main] INFO  com.data.sockets.SocketSender  - Sending message: 621 sent: 1298074771792
+299  [main] INFO  com.data.sockets.SocketSender  - Sending message: 622 sent: 1298074771792
+299  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771792
+299  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771792
+299  [main] INFO  com.data.sockets.SocketSender  - Sending message: 623 sent: 1298074771792
+299  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771792
+299  [main] INFO  com.data.sockets.SocketSender  - Sending message: 624 sent: 1298074771792
+300  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771793
+300  [main] INFO  com.data.sockets.SocketSender  - Sending message: 625 sent: 1298074771793
+300  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771793
+300  [main] INFO  com.data.sockets.SocketSender  - Sending message: 626 sent: 1298074771793
+300  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771793
+300  [main] INFO  com.data.sockets.SocketSender  - Sending message: 627 sent: 1298074771793
+301  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771794
+301  [main] INFO  com.data.sockets.SocketSender  - Sending message: 628 sent: 1298074771794
+301  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771794
+301  [main] INFO  com.data.sockets.SocketSender  - Sending message: 629 sent: 1298074771794
+301  [main] INFO  com.data.sockets.SocketSender  - Sending message: 630 sent: 1298074771794
+301  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771794
+302  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771795
+302  [main] INFO  com.data.sockets.SocketSender  - Sending message: 631 sent: 1298074771795
+302  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771795
+302  [main] INFO  com.data.sockets.SocketSender  - Sending message: 632 sent: 1298074771795
+302  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771795
+302  [main] INFO  com.data.sockets.SocketSender  - Sending message: 633 sent: 1298074771795
+303  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771796
+303  [main] INFO  com.data.sockets.SocketSender  - Sending message: 634 sent: 1298074771796
+303  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771796
+303  [main] INFO  com.data.sockets.SocketSender  - Sending message: 635 sent: 1298074771796
+303  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771796
+303  [main] INFO  com.data.sockets.SocketSender  - Sending message: 636 sent: 1298074771796
+304  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771797
+304  [main] INFO  com.data.sockets.SocketSender  - Sending message: 637 sent: 1298074771797
+304  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771797
+304  [main] INFO  com.data.sockets.SocketSender  - Sending message: 638 sent: 1298074771797
+304  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771797
+304  [main] INFO  com.data.sockets.SocketSender  - Sending message: 639 sent: 1298074771797
+305  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771798
+305  [main] INFO  com.data.sockets.SocketSender  - Sending message: 640 sent: 1298074771798
+305  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771798
+305  [main] INFO  com.data.sockets.SocketSender  - Sending message: 641 sent: 1298074771798
+305  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771798
+305  [main] INFO  com.data.sockets.SocketSender  - Sending message: 642 sent: 1298074771798
+306  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771799
+306  [main] INFO  com.data.sockets.SocketSender  - Sending message: 643 sent: 1298074771799
+306  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771799
+306  [main] INFO  com.data.sockets.SocketSender  - Sending message: 644 sent: 1298074771799
+306  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771799
+306  [main] INFO  com.data.sockets.SocketSender  - Sending message: 645 sent: 1298074771799
+307  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771800
+307  [main] INFO  com.data.sockets.SocketSender  - Sending message: 646 sent: 1298074771800
+307  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771800
+307  [main] INFO  com.data.sockets.SocketSender  - Sending message: 647 sent: 1298074771800
+307  [main] INFO  com.data.sockets.SocketSender  - Sending message: 648 sent: 1298074771800
+307  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771800
+308  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771801
+308  [main] INFO  com.data.sockets.SocketSender  - Sending message: 649 sent: 1298074771801
+308  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771801
+308  [main] INFO  com.data.sockets.SocketSender  - Sending message: 650 sent: 1298074771801
+308  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771801
+308  [main] INFO  com.data.sockets.SocketSender  - Sending message: 651 sent: 1298074771801
+309  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771802
+309  [main] INFO  com.data.sockets.SocketSender  - Sending message: 652 sent: 1298074771802
+309  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771802
+309  [main] INFO  com.data.sockets.SocketSender  - Sending message: 653 sent: 1298074771802
+309  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771802
+309  [main] INFO  com.data.sockets.SocketSender  - Sending message: 654 sent: 1298074771802
+310  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771803
+310  [main] INFO  com.data.sockets.SocketSender  - Sending message: 655 sent: 1298074771803
+310  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771803
+310  [main] INFO  com.data.sockets.SocketSender  - Sending message: 656 sent: 1298074771803
+310  [main] INFO  com.data.sockets.SocketSender  - Sending message: 657 sent: 1298074771803
+310  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771803
+310  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771803
+311  [main] INFO  com.data.sockets.SocketSender  - Sending message: 658 sent: 1298074771803
+311  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771804
+311  [main] INFO  com.data.sockets.SocketSender  - Sending message: 659 sent: 1298074771804
+311  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771804
+311  [main] INFO  com.data.sockets.SocketSender  - Sending message: 660 sent: 1298074771804
+312  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771805
+312  [main] INFO  com.data.sockets.SocketSender  - Sending message: 661 sent: 1298074771805
+312  [main] INFO  com.data.sockets.SocketSender  - Sending message: 662 sent: 1298074771805
+312  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771805
+312  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771805
+312  [main] INFO  com.data.sockets.SocketSender  - Sending message: 663 sent: 1298074771805
+312  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771805
+312  [main] INFO  com.data.sockets.SocketSender  - Sending message: 664 sent: 1298074771805
+313  [main] INFO  com.data.sockets.SocketSender  - Sending message: 665 sent: 1298074771806
+313  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771806
+313  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771806
+313  [main] INFO  com.data.sockets.SocketSender  - Sending message: 666 sent: 1298074771806
+313  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771806
+313  [main] INFO  com.data.sockets.SocketSender  - Sending message: 667 sent: 1298074771806
+314  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771807
+314  [main] INFO  com.data.sockets.SocketSender  - Sending message: 668 sent: 1298074771807
+314  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771807
+314  [main] INFO  com.data.sockets.SocketSender  - Sending message: 669 sent: 1298074771807
+314  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771807
+314  [main] INFO  com.data.sockets.SocketSender  - Sending message: 670 sent: 1298074771807
+315  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771808
+315  [main] INFO  com.data.sockets.SocketSender  - Sending message: 671 sent: 1298074771808
+315  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771808
+315  [main] INFO  com.data.sockets.SocketSender  - Sending message: 672 sent: 1298074771808
+315  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771808
+315  [main] INFO  com.data.sockets.SocketSender  - Sending message: 673 sent: 1298074771808
+316  [main] INFO  com.data.sockets.SocketSender  - Sending message: 674 sent: 1298074771809
+316  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771809
+316  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771809
+316  [main] INFO  com.data.sockets.SocketSender  - Sending message: 675 sent: 1298074771809
+316  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771809
+316  [main] INFO  com.data.sockets.SocketSender  - Sending message: 676 sent: 1298074771809
+317  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771810
+317  [main] INFO  com.data.sockets.SocketSender  - Sending message: 677 sent: 1298074771810
+317  [main] INFO  com.data.sockets.SocketSender  - Sending message: 678 sent: 1298074771810
+317  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771810
+317  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771810
+317  [main] INFO  com.data.sockets.SocketSender  - Sending message: 679 sent: 1298074771810
+318  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771811
+318  [main] INFO  com.data.sockets.SocketSender  - Sending message: 680 sent: 1298074771811
+318  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771811
+318  [main] INFO  com.data.sockets.SocketSender  - Sending message: 681 sent: 1298074771811
+318  [main] INFO  com.data.sockets.SocketSender  - Sending message: 682 sent: 1298074771811
+318  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771811
+318  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771811
+318  [main] INFO  com.data.sockets.SocketSender  - Sending message: 683 sent: 1298074771811
+319  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771812
+319  [main] INFO  com.data.sockets.SocketSender  - Sending message: 684 sent: 1298074771812
+319  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771812
+319  [main] INFO  com.data.sockets.SocketSender  - Sending message: 685 sent: 1298074771812
+319  [main] INFO  com.data.sockets.SocketSender  - Sending message: 686 sent: 1298074771812
+319  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771812
+320  [main] INFO  com.data.sockets.SocketSender  - Sending message: 687 sent: 1298074771813
+320  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771813
+320  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771813
+320  [main] INFO  com.data.sockets.SocketSender  - Sending message: 688 sent: 1298074771813
+320  [main] INFO  com.data.sockets.SocketSender  - Sending message: 689 sent: 1298074771813
+320  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771813
+321  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771814
+321  [main] INFO  com.data.sockets.SocketSender  - Sending message: 690 sent: 1298074771814
+321  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771814
+321  [main] INFO  com.data.sockets.SocketSender  - Sending message: 691 sent: 1298074771814
+321  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771814
+321  [main] INFO  com.data.sockets.SocketSender  - Sending message: 692 sent: 1298074771814
+322  [main] INFO  com.data.sockets.SocketSender  - Sending message: 693 sent: 1298074771815
+322  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771815
+322  [main] INFO  com.data.sockets.SocketSender  - Sending message: 694 sent: 1298074771815
+322  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771815
+322  [main] INFO  com.data.sockets.SocketSender  - Sending message: 695 sent: 1298074771815
+322  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771815
+323  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771816
+323  [main] INFO  com.data.sockets.SocketSender  - Sending message: 696 sent: 1298074771816
+323  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771816
+323  [main] INFO  com.data.sockets.SocketSender  - Sending message: 697 sent: 1298074771816
+323  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771816
+323  [main] INFO  com.data.sockets.SocketSender  - Sending message: 698 sent: 1298074771816
+324  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771817
+324  [main] INFO  com.data.sockets.SocketSender  - Sending message: 699 sent: 1298074771817
+324  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771817
+324  [main] INFO  com.data.sockets.SocketSender  - Sending message: 700 sent: 1298074771817
+325  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771818
+325  [main] INFO  com.data.sockets.SocketSender  - Sending message: 701 sent: 1298074771818
+325  [main] INFO  com.data.sockets.SocketSender  - Sending message: 702 sent: 1298074771818
+325  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771818
+325  [main] INFO  com.data.sockets.SocketSender  - Sending message: 703 sent: 1298074771818
+325  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771818
+326  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771819
+326  [main] INFO  com.data.sockets.SocketSender  - Sending message: 704 sent: 1298074771819
+326  [main] INFO  com.data.sockets.SocketSender  - Sending message: 705 sent: 1298074771819
+326  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771819
+326  [main] INFO  com.data.sockets.SocketSender  - Sending message: 706 sent: 1298074771819
+326  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771819
+326  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771819
+326  [main] INFO  com.data.sockets.SocketSender  - Sending message: 707 sent: 1298074771819
+327  [main] INFO  com.data.sockets.SocketSender  - Sending message: 708 sent: 1298074771820
+327  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771820
+327  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771820
+327  [main] INFO  com.data.sockets.SocketSender  - Sending message: 709 sent: 1298074771820
+327  [main] INFO  com.data.sockets.SocketSender  - Sending message: 710 sent: 1298074771820
+327  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771820
+328  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771821
+328  [main] INFO  com.data.sockets.SocketSender  - Sending message: 711 sent: 1298074771821
+328  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771821
+328  [main] INFO  com.data.sockets.SocketSender  - Sending message: 712 sent: 1298074771821
+328  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771821
+328  [main] INFO  com.data.sockets.SocketSender  - Sending message: 713 sent: 1298074771821
+329  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771822
+329  [main] INFO  com.data.sockets.SocketSender  - Sending message: 714 sent: 1298074771822
+329  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771822
+329  [main] INFO  com.data.sockets.SocketSender  - Sending message: 715 sent: 1298074771822
+329  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771822
+329  [main] INFO  com.data.sockets.SocketSender  - Sending message: 716 sent: 1298074771822
+330  [main] INFO  com.data.sockets.SocketSender  - Sending message: 717 sent: 1298074771823
+330  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771823
+330  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771823
+330  [main] INFO  com.data.sockets.SocketSender  - Sending message: 718 sent: 1298074771823
+330  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771823
+330  [main] INFO  com.data.sockets.SocketSender  - Sending message: 719 sent: 1298074771823
+331  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771824
+331  [main] INFO  com.data.sockets.SocketSender  - Sending message: 720 sent: 1298074771824
+331  [main] INFO  com.data.sockets.SocketSender  - Sending message: 721 sent: 1298074771824
+331  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771824
+331  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771824
+331  [main] INFO  com.data.sockets.SocketSender  - Sending message: 722 sent: 1298074771824
+332  [main] INFO  com.data.sockets.SocketSender  - Sending message: 723 sent: 1298074771825
+332  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771825
+332  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771825
+332  [main] INFO  com.data.sockets.SocketSender  - Sending message: 724 sent: 1298074771825
+332  [main] INFO  com.data.sockets.SocketSender  - Sending message: 725 sent: 1298074771825
+332  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771825
+332  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771825
+332  [main] INFO  com.data.sockets.SocketSender  - Sending message: 726 sent: 1298074771825
+333  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771826
+333  [main] INFO  com.data.sockets.SocketSender  - Sending message: 727 sent: 1298074771826
+333  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771826
+333  [main] INFO  com.data.sockets.SocketSender  - Sending message: 728 sent: 1298074771826
+333  [main] INFO  com.data.sockets.SocketSender  - Sending message: 729 sent: 1298074771826
+333  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771826
+334  [main] INFO  com.data.sockets.SocketSender  - Sending message: 730 sent: 1298074771827
+334  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771827
+334  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771827
+334  [main] INFO  com.data.sockets.SocketSender  - Sending message: 731 sent: 1298074771827
+334  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771827
+334  [main] INFO  com.data.sockets.SocketSender  - Sending message: 732 sent: 1298074771827
+335  [main] INFO  com.data.sockets.SocketSender  - Sending message: 733 sent: 1298074771828
+335  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771828
+335  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771828
+335  [main] INFO  com.data.sockets.SocketSender  - Sending message: 734 sent: 1298074771828
+335  [main] INFO  com.data.sockets.SocketSender  - Sending message: 735 sent: 1298074771828
+335  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771828
+335  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771828
+335  [main] INFO  com.data.sockets.SocketSender  - Sending message: 736 sent: 1298074771828
+336  [main] INFO  com.data.sockets.SocketSender  - Sending message: 737 sent: 1298074771829
+336  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771829
+336  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771829
+336  [main] INFO  com.data.sockets.SocketSender  - Sending message: 738 sent: 1298074771829
+336  [main] INFO  com.data.sockets.SocketSender  - Sending message: 739 sent: 1298074771829
+336  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771829
+337  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771830
+337  [main] INFO  com.data.sockets.SocketSender  - Sending message: 740 sent: 1298074771830
+337  [main] INFO  com.data.sockets.SocketSender  - Sending message: 741 sent: 1298074771830
+337  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771830
+337  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771830
+337  [main] INFO  com.data.sockets.SocketSender  - Sending message: 742 sent: 1298074771830
+338  [main] INFO  com.data.sockets.SocketSender  - Sending message: 743 sent: 1298074771831
+338  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771831
+338  [main] INFO  com.data.sockets.SocketSender  - Sending message: 744 sent: 1298074771831
+338  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771831
+338  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771831
+338  [main] INFO  com.data.sockets.SocketSender  - Sending message: 745 sent: 1298074771831
+338  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771831
+338  [main] INFO  com.data.sockets.SocketSender  - Sending message: 746 sent: 1298074771831
+339  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771832
+339  [main] INFO  com.data.sockets.SocketSender  - Sending message: 747 sent: 1298074771832
+339  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771832
+339  [main] INFO  com.data.sockets.SocketSender  - Sending message: 748 sent: 1298074771832
+339  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771832
+339  [main] INFO  com.data.sockets.SocketSender  - Sending message: 749 sent: 1298074771832
+340  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771833
+340  [main] INFO  com.data.sockets.SocketSender  - Sending message: 750 sent: 1298074771833
+340  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771833
+340  [main] INFO  com.data.sockets.SocketSender  - Sending message: 751 sent: 1298074771833
+340  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771833
+340  [main] INFO  com.data.sockets.SocketSender  - Sending message: 752 sent: 1298074771833
+341  [main] INFO  com.data.sockets.SocketSender  - Sending message: 753 sent: 1298074771834
+341  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771834
+341  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771834
+341  [main] INFO  com.data.sockets.SocketSender  - Sending message: 754 sent: 1298074771834
+341  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771834
+341  [main] INFO  com.data.sockets.SocketSender  - Sending message: 755 sent: 1298074771834
+342  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771835
+342  [main] INFO  com.data.sockets.SocketSender  - Sending message: 756 sent: 1298074771835
+342  [main] INFO  com.data.sockets.SocketSender  - Sending message: 757 sent: 1298074771835
+342  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771835
+342  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771835
+342  [main] INFO  com.data.sockets.SocketSender  - Sending message: 758 sent: 1298074771835
+343  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771836
+343  [main] INFO  com.data.sockets.SocketSender  - Sending message: 759 sent: 1298074771836
+343  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771836
+343  [main] INFO  com.data.sockets.SocketSender  - Sending message: 760 sent: 1298074771836
+343  [main] INFO  com.data.sockets.SocketSender  - Sending message: 761 sent: 1298074771836
+343  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771836
+344  [main] INFO  com.data.sockets.SocketSender  - Sending message: 762 sent: 1298074771837
+344  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771837
+344  [main] INFO  com.data.sockets.SocketSender  - Sending message: 763 sent: 1298074771837
+344  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771837
+344  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771837
+344  [main] INFO  com.data.sockets.SocketSender  - Sending message: 764 sent: 1298074771837
+344  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771837
+344  [main] INFO  com.data.sockets.SocketSender  - Sending message: 765 sent: 1298074771837
+345  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771838
+345  [main] INFO  com.data.sockets.SocketSender  - Sending message: 766 sent: 1298074771838
+345  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771838
+345  [main] INFO  com.data.sockets.SocketSender  - Sending message: 767 sent: 1298074771838
+345  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771838
+345  [main] INFO  com.data.sockets.SocketSender  - Sending message: 768 sent: 1298074771838
+346  [main] INFO  com.data.sockets.SocketSender  - Sending message: 769 sent: 1298074771839
+346  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771839
+346  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771839
+346  [main] INFO  com.data.sockets.SocketSender  - Sending message: 770 sent: 1298074771839
+346  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771839
+346  [main] INFO  com.data.sockets.SocketSender  - Sending message: 771 sent: 1298074771839
+347  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771840
+347  [main] INFO  com.data.sockets.SocketSender  - Sending message: 772 sent: 1298074771840
+347  [main] INFO  com.data.sockets.SocketSender  - Sending message: 773 sent: 1298074771840
+347  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771840
+347  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771840
+347  [main] INFO  com.data.sockets.SocketSender  - Sending message: 774 sent: 1298074771840
+348  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771841
+348  [main] INFO  com.data.sockets.SocketSender  - Sending message: 775 sent: 1298074771841
+348  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771841
+348  [main] INFO  com.data.sockets.SocketSender  - Sending message: 776 sent: 1298074771841
+348  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771841
+348  [main] INFO  com.data.sockets.SocketSender  - Sending message: 777 sent: 1298074771841
+349  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771842
+349  [main] INFO  com.data.sockets.SocketSender  - Sending message: 778 sent: 1298074771842
+349  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771842
+349  [main] INFO  com.data.sockets.SocketSender  - Sending message: 779 sent: 1298074771842
+349  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771842
+349  [main] INFO  com.data.sockets.SocketSender  - Sending message: 780 sent: 1298074771842
+350  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771843
+350  [main] INFO  com.data.sockets.SocketSender  - Sending message: 781 sent: 1298074771843
+350  [main] INFO  com.data.sockets.SocketSender  - Sending message: 782 sent: 1298074771843
+350  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771843
+350  [main] INFO  com.data.sockets.SocketSender  - Sending message: 783 sent: 1298074771843
+350  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771843
+350  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771843
+350  [main] INFO  com.data.sockets.SocketSender  - Sending message: 784 sent: 1298074771843
+351  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771844
+351  [main] INFO  com.data.sockets.SocketSender  - Sending message: 785 sent: 1298074771844
+351  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771844
+351  [main] INFO  com.data.sockets.SocketSender  - Sending message: 786 sent: 1298074771844
+351  [main] INFO  com.data.sockets.SocketSender  - Sending message: 787 sent: 1298074771844
+351  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771844
+352  [main] INFO  com.data.sockets.SocketSender  - Sending message: 788 sent: 1298074771845
+352  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771845
+352  [main] INFO  com.data.sockets.SocketSender  - Sending message: 789 sent: 1298074771845
+352  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771845
+352  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771845
+352  [main] INFO  com.data.sockets.SocketSender  - Sending message: 790 sent: 1298074771845
+353  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771846
+353  [main] INFO  com.data.sockets.SocketSender  - Sending message: 791 sent: 1298074771846
+353  [main] INFO  com.data.sockets.SocketSender  - Sending message: 792 sent: 1298074771846
+353  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771846
+353  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771846
+353  [main] INFO  com.data.sockets.SocketSender  - Sending message: 793 sent: 1298074771846
+354  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771846
+354  [main] INFO  com.data.sockets.SocketSender  - Sending message: 794 sent: 1298074771846
+354  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771847
+354  [main] INFO  com.data.sockets.SocketSender  - Sending message: 795 sent: 1298074771847
+354  [main] INFO  com.data.sockets.SocketSender  - Sending message: 796 sent: 1298074771847
+354  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771847
+354  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771847
+354  [main] INFO  com.data.sockets.SocketSender  - Sending message: 797 sent: 1298074771847
+355  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771848
+355  [main] INFO  com.data.sockets.SocketSender  - Sending message: 798 sent: 1298074771848
+355  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771848
+355  [main] INFO  com.data.sockets.SocketSender  - Sending message: 799 sent: 1298074771848
+355  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771848
+355  [main] INFO  com.data.sockets.SocketSender  - Sending message: 800 sent: 1298074771848
+356  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771849
+356  [main] INFO  com.data.sockets.SocketSender  - Sending message: 801 sent: 1298074771849
+356  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771849
+356  [main] INFO  com.data.sockets.SocketSender  - Sending message: 802 sent: 1298074771849
+356  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771849
+356  [main] INFO  com.data.sockets.SocketSender  - Sending message: 803 sent: 1298074771849
+357  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771850
+357  [main] INFO  com.data.sockets.SocketSender  - Sending message: 804 sent: 1298074771850
+357  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771850
+357  [main] INFO  com.data.sockets.SocketSender  - Sending message: 805 sent: 1298074771850
+357  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771850
+357  [main] INFO  com.data.sockets.SocketSender  - Sending message: 806 sent: 1298074771850
+358  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771851
+358  [main] INFO  com.data.sockets.SocketSender  - Sending message: 807 sent: 1298074771851
+358  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771851
+358  [main] INFO  com.data.sockets.SocketSender  - Sending message: 808 sent: 1298074771851
+358  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771851
+358  [main] INFO  com.data.sockets.SocketSender  - Sending message: 809 sent: 1298074771851
+359  [main] INFO  com.data.sockets.SocketSender  - Sending message: 810 sent: 1298074771852
+359  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771852
+359  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771852
+359  [main] INFO  com.data.sockets.SocketSender  - Sending message: 811 sent: 1298074771852
+359  [main] INFO  com.data.sockets.SocketSender  - Sending message: 812 sent: 1298074771852
+359  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771852
+360  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771853
+360  [main] INFO  com.data.sockets.SocketSender  - Sending message: 813 sent: 1298074771853
+360  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771853
+360  [main] INFO  com.data.sockets.SocketSender  - Sending message: 814 sent: 1298074771853
+360  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771853
+360  [main] INFO  com.data.sockets.SocketSender  - Sending message: 815 sent: 1298074771853
+361  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771854
+361  [main] INFO  com.data.sockets.SocketSender  - Sending message: 816 sent: 1298074771854
+361  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771854
+361  [main] INFO  com.data.sockets.SocketSender  - Sending message: 817 sent: 1298074771854
+361  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771854
+361  [main] INFO  com.data.sockets.SocketSender  - Sending message: 818 sent: 1298074771854
+361  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771854
+361  [main] INFO  com.data.sockets.SocketSender  - Sending message: 819 sent: 1298074771854
+362  [main] INFO  com.data.sockets.SocketSender  - Sending message: 820 sent: 1298074771855
+362  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771855
+362  [main] INFO  com.data.sockets.SocketSender  - Sending message: 821 sent: 1298074771855
+362  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771855
+362  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771855
+362  [main] INFO  com.data.sockets.SocketSender  - Sending message: 822 sent: 1298074771855
+363  [main] INFO  com.data.sockets.SocketSender  - Sending message: 823 sent: 1298074771856
+363  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771856
+363  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771856
+363  [main] INFO  com.data.sockets.SocketSender  - Sending message: 824 sent: 1298074771856
+363  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771856
+363  [main] INFO  com.data.sockets.SocketSender  - Sending message: 825 sent: 1298074771856
+364  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771857
+364  [main] INFO  com.data.sockets.SocketSender  - Sending message: 826 sent: 1298074771857
+364  [main] INFO  com.data.sockets.SocketSender  - Sending message: 827 sent: 1298074771857
+364  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771857
+364  [main] INFO  com.data.sockets.SocketSender  - Sending message: 828 sent: 1298074771857
+364  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771857
+365  [main] INFO  com.data.sockets.SocketSender  - Sending message: 829 sent: 1298074771858
+365  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771858
+365  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771858
+365  [main] INFO  com.data.sockets.SocketSender  - Sending message: 830 sent: 1298074771858
+365  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771858
+365  [main] INFO  com.data.sockets.SocketSender  - Sending message: 831 sent: 1298074771858
+366  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771859
+366  [main] INFO  com.data.sockets.SocketSender  - Sending message: 832 sent: 1298074771859
+367  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771860
+367  [main] INFO  com.data.sockets.SocketSender  - Sending message: 833 sent: 1298074771860
+368  [main] INFO  com.data.sockets.SocketSender  - Sending message: 834 sent: 1298074771861
+368  [main] INFO  com.data.sockets.SocketSender  - Sending message: 835 sent: 1298074771861
+369  [main] INFO  com.data.sockets.SocketSender  - Sending message: 836 sent: 1298074771862
+369  [main] INFO  com.data.sockets.SocketSender  - Sending message: 837 sent: 1298074771862
+369  [main] INFO  com.data.sockets.SocketSender  - Sending message: 838 sent: 1298074771862
+370  [main] INFO  com.data.sockets.SocketSender  - Sending message: 839 sent: 1298074771863
+370  [main] INFO  com.data.sockets.SocketSender  - Sending message: 840 sent: 1298074771863
+371  [main] INFO  com.data.sockets.SocketSender  - Sending message: 841 sent: 1298074771863
+371  [main] INFO  com.data.sockets.SocketSender  - Sending message: 842 sent: 1298074771864
+371  [main] INFO  com.data.sockets.SocketSender  - Sending message: 843 sent: 1298074771864
+372  [main] INFO  com.data.sockets.SocketSender  - Sending message: 844 sent: 1298074771865
+372  [main] INFO  com.data.sockets.SocketSender  - Sending message: 845 sent: 1298074771865
+372  [main] INFO  com.data.sockets.SocketSender  - Sending message: 846 sent: 1298074771865
+373  [main] INFO  com.data.sockets.SocketSender  - Sending message: 847 sent: 1298074771866
+373  [main] INFO  com.data.sockets.SocketSender  - Sending message: 848 sent: 1298074771866
+373  [main] INFO  com.data.sockets.SocketSender  - Sending message: 849 sent: 1298074771866
+374  [main] INFO  com.data.sockets.SocketSender  - Sending message: 850 sent: 1298074771867
+374  [main] INFO  com.data.sockets.SocketSender  - Sending message: 851 sent: 1298074771867
+374  [main] INFO  com.data.sockets.SocketSender  - Sending message: 852 sent: 1298074771867
+375  [main] INFO  com.data.sockets.SocketSender  - Sending message: 853 sent: 1298074771868
+376  [main] INFO  com.data.sockets.SocketSender  - Sending message: 854 sent: 1298074771869
+376  [main] INFO  com.data.sockets.SocketSender  - Sending message: 855 sent: 1298074771869
+376  [main] INFO  com.data.sockets.SocketSender  - Sending message: 856 sent: 1298074771869
+377  [main] INFO  com.data.sockets.SocketSender  - Sending message: 857 sent: 1298074771870
+377  [main] INFO  com.data.sockets.SocketSender  - Sending message: 858 sent: 1298074771870
+377  [main] INFO  com.data.sockets.SocketSender  - Sending message: 859 sent: 1298074771870
+378  [main] INFO  com.data.sockets.SocketSender  - Sending message: 860 sent: 1298074771871
+378  [main] INFO  com.data.sockets.SocketSender  - Sending message: 861 sent: 1298074771871
+379  [main] INFO  com.data.sockets.SocketSender  - Sending message: 862 sent: 1298074771872
+379  [main] INFO  com.data.sockets.SocketSender  - Sending message: 863 sent: 1298074771872
+379  [main] INFO  com.data.sockets.SocketSender  - Sending message: 864 sent: 1298074771872
+380  [main] INFO  com.data.sockets.SocketSender  - Sending message: 865 sent: 1298074771873
+380  [main] INFO  com.data.sockets.SocketSender  - Sending message: 866 sent: 1298074771873
+380  [main] INFO  com.data.sockets.SocketSender  - Sending message: 867 sent: 1298074771873
+381  [main] INFO  com.data.sockets.SocketSender  - Sending message: 868 sent: 1298074771874
+381  [main] INFO  com.data.sockets.SocketSender  - Sending message: 869 sent: 1298074771874
+381  [main] INFO  com.data.sockets.SocketSender  - Sending message: 870 sent: 1298074771874
+382  [main] INFO  com.data.sockets.SocketSender  - Sending message: 871 sent: 1298074771875
+382  [main] INFO  com.data.sockets.SocketSender  - Sending message: 872 sent: 1298074771875
+382  [main] INFO  com.data.sockets.SocketSender  - Sending message: 873 sent: 1298074771875
+383  [main] INFO  com.data.sockets.SocketSender  - Sending message: 874 sent: 1298074771876
+384  [main] INFO  com.data.sockets.SocketSender  - Sending message: 875 sent: 1298074771877
+384  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771877
+384  [main] INFO  com.data.sockets.SocketSender  - Sending message: 876 sent: 1298074771877
+384  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771877
+384  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771877
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [main] INFO  com.data.sockets.SocketSender  - Sending message: 877 sent: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [main] INFO  com.data.sockets.SocketSender  - Sending message: 878 sent: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [main] INFO  com.data.sockets.SocketSender  - Sending message: 879 sent: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+385  [main] INFO  com.data.sockets.SocketSender  - Sending message: 880 sent: 1298074771878
+385  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771878
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [main] INFO  com.data.sockets.SocketSender  - Sending message: 881 sent: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [main] INFO  com.data.sockets.SocketSender  - Sending message: 882 sent: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+386  [main] INFO  com.data.sockets.SocketSender  - Sending message: 883 sent: 1298074771879
+386  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771879
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [main] INFO  com.data.sockets.SocketSender  - Sending message: 884 sent: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [main] INFO  com.data.sockets.SocketSender  - Sending message: 885 sent: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [main] INFO  com.data.sockets.SocketSender  - Sending message: 886 sent: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+387  [main] INFO  com.data.sockets.SocketSender  - Sending message: 887 sent: 1298074771880
+387  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771880
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+388  [main] INFO  com.data.sockets.SocketSender  - Sending message: 888 sent: 1298074771881
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+388  [main] INFO  com.data.sockets.SocketSender  - Sending message: 889 sent: 1298074771881
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+388  [main] INFO  com.data.sockets.SocketSender  - Sending message: 890 sent: 1298074771881
+388  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771881
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [main] INFO  com.data.sockets.SocketSender  - Sending message: 891 sent: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [main] INFO  com.data.sockets.SocketSender  - Sending message: 892 sent: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [main] INFO  com.data.sockets.SocketSender  - Sending message: 893 sent: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+389  [main] INFO  com.data.sockets.SocketSender  - Sending message: 894 sent: 1298074771882
+389  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771882
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+390  [main] INFO  com.data.sockets.SocketSender  - Sending message: 895 sent: 1298074771883
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+390  [main] INFO  com.data.sockets.SocketSender  - Sending message: 896 sent: 1298074771883
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+390  [main] INFO  com.data.sockets.SocketSender  - Sending message: 897 sent: 1298074771883
+390  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771883
+391  [main] INFO  com.data.sockets.SocketSender  - Sending message: 898 sent: 1298074771884
+391  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771884
+391  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771884
+391  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771884
+391  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771884
+391  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771884
+391  [main] INFO  com.data.sockets.SocketSender  - Sending message: 899 sent: 1298074771884
+391  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771884
+391  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771884
+391  [main] INFO  com.data.sockets.SocketSender  - Sending message: 900 sent: 1298074771884
+392  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771885
+392  [main] INFO  com.data.sockets.SocketSender  - Sending message: 901 sent: 1298074771885
+392  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771885
+392  [main] INFO  com.data.sockets.SocketSender  - Sending message: 902 sent: 1298074771885
+392  [main] INFO  com.data.sockets.SocketSender  - Sending message: 903 sent: 1298074771885
+392  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771885
+393  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771886
+393  [main] INFO  com.data.sockets.SocketSender  - Sending message: 904 sent: 1298074771886
+393  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771886
+393  [main] INFO  com.data.sockets.SocketSender  - Sending message: 905 sent: 1298074771886
+393  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771886
+393  [main] INFO  com.data.sockets.SocketSender  - Sending message: 906 sent: 1298074771886
+394  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771887
+394  [main] INFO  com.data.sockets.SocketSender  - Sending message: 907 sent: 1298074771887
+394  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771887
+394  [main] INFO  com.data.sockets.SocketSender  - Sending message: 908 sent: 1298074771887
+394  [main] INFO  com.data.sockets.SocketSender  - Sending message: 909 sent: 1298074771887
+395  [main] INFO  com.data.sockets.SocketSender  - Sending message: 910 sent: 1298074771888
+395  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771888
+395  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771888
+395  [main] INFO  com.data.sockets.SocketSender  - Sending message: 911 sent: 1298074771888
+395  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771888
+395  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771888
+395  [main] INFO  com.data.sockets.SocketSender  - Sending message: 912 sent: 1298074771888
+396  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771889
+397  [main] INFO  com.data.sockets.SocketSender  - Sending message: 913 sent: 1298074771889
+397  [main] INFO  com.data.sockets.SocketSender  - Sending message: 914 sent: 1298074771890
+397  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771890
+398  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771891
+398  [main] INFO  com.data.sockets.SocketSender  - Sending message: 915 sent: 1298074771891
+398  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771891
+398  [main] INFO  com.data.sockets.SocketSender  - Sending message: 916 sent: 1298074771891
+398  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771891
+398  [main] INFO  com.data.sockets.SocketSender  - Sending message: 917 sent: 1298074771891
+399  [main] INFO  com.data.sockets.SocketSender  - Sending message: 918 sent: 1298074771892
+399  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771892
+399  [main] INFO  com.data.sockets.SocketSender  - Sending message: 919 sent: 1298074771892
+399  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771892
+399  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771892
+399  [main] INFO  com.data.sockets.SocketSender  - Sending message: 920 sent: 1298074771892
+400  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771893
+400  [main] INFO  com.data.sockets.SocketSender  - Sending message: 921 sent: 1298074771893
+400  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771893
+400  [main] INFO  com.data.sockets.SocketSender  - Sending message: 922 sent: 1298074771893
+400  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771893
+400  [main] INFO  com.data.sockets.SocketSender  - Sending message: 923 sent: 1298074771893
+401  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771894
+401  [main] INFO  com.data.sockets.SocketSender  - Sending message: 924 sent: 1298074771894
+401  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771894
+401  [main] INFO  com.data.sockets.SocketSender  - Sending message: 925 sent: 1298074771894
+401  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771894
+401  [main] INFO  com.data.sockets.SocketSender  - Sending message: 926 sent: 1298074771894
+402  [main] INFO  com.data.sockets.SocketSender  - Sending message: 927 sent: 1298074771895
+402  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771895
+402  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771895
+402  [main] INFO  com.data.sockets.SocketSender  - Sending message: 928 sent: 1298074771895
+402  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771895
+402  [main] INFO  com.data.sockets.SocketSender  - Sending message: 929 sent: 1298074771895
+403  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771896
+403  [main] INFO  com.data.sockets.SocketSender  - Sending message: 930 sent: 1298074771896
+403  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771896
+403  [main] INFO  com.data.sockets.SocketSender  - Sending message: 931 sent: 1298074771896
+403  [main] INFO  com.data.sockets.SocketSender  - Sending message: 932 sent: 1298074771896
+403  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771896
+403  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771896
+403  [main] INFO  com.data.sockets.SocketSender  - Sending message: 933 sent: 1298074771896
+404  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771897
+404  [main] INFO  com.data.sockets.SocketSender  - Sending message: 934 sent: 1298074771897
+404  [main] INFO  com.data.sockets.SocketSender  - Sending message: 935 sent: 1298074771897
+404  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771897
+404  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771897
+404  [main] INFO  com.data.sockets.SocketSender  - Sending message: 936 sent: 1298074771897
+405  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771898
+405  [main] INFO  com.data.sockets.SocketSender  - Sending message: 937 sent: 1298074771898
+405  [main] INFO  com.data.sockets.SocketSender  - Sending message: 938 sent: 1298074771898
+405  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771898
+405  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771898
+405  [main] INFO  com.data.sockets.SocketSender  - Sending message: 939 sent: 1298074771898
+406  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771899
+406  [main] INFO  com.data.sockets.SocketSender  - Sending message: 940 sent: 1298074771899
+406  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771899
+406  [main] INFO  com.data.sockets.SocketSender  - Sending message: 941 sent: 1298074771899
+406  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771899
+406  [main] INFO  com.data.sockets.SocketSender  - Sending message: 942 sent: 1298074771899
+407  [main] INFO  com.data.sockets.SocketSender  - Sending message: 943 sent: 1298074771900
+407  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771900
+407  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771900
+407  [main] INFO  com.data.sockets.SocketSender  - Sending message: 944 sent: 1298074771900
+407  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771900
+407  [main] INFO  com.data.sockets.SocketSender  - Sending message: 945 sent: 1298074771900
+408  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771901
+408  [main] INFO  com.data.sockets.SocketSender  - Sending message: 946 sent: 1298074771901
+408  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771901
+408  [main] INFO  com.data.sockets.SocketSender  - Sending message: 947 sent: 1298074771901
+408  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771901
+408  [main] INFO  com.data.sockets.SocketSender  - Sending message: 948 sent: 1298074771901
+409  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771902
+409  [main] INFO  com.data.sockets.SocketSender  - Sending message: 949 sent: 1298074771902
+409  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771902
+409  [main] INFO  com.data.sockets.SocketSender  - Sending message: 950 sent: 1298074771902
+409  [main] INFO  com.data.sockets.SocketSender  - Sending message: 951 sent: 1298074771902
+409  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771902
+410  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771903
+410  [main] INFO  com.data.sockets.SocketSender  - Sending message: 952 sent: 1298074771903
+410  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771903
+410  [main] INFO  com.data.sockets.SocketSender  - Sending message: 953 sent: 1298074771903
+410  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771903
+410  [main] INFO  com.data.sockets.SocketSender  - Sending message: 954 sent: 1298074771903
+411  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771903
+411  [main] INFO  com.data.sockets.SocketSender  - Sending message: 955 sent: 1298074771903
+411  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771904
+411  [main] INFO  com.data.sockets.SocketSender  - Sending message: 956 sent: 1298074771904
+411  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771904
+411  [main] INFO  com.data.sockets.SocketSender  - Sending message: 957 sent: 1298074771904
+411  [main] INFO  com.data.sockets.SocketSender  - Sending message: 958 sent: 1298074771904
+411  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771904
+412  [main] INFO  com.data.sockets.SocketSender  - Sending message: 959 sent: 1298074771905
+412  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771905
+412  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771905
+412  [main] INFO  com.data.sockets.SocketSender  - Sending message: 960 sent: 1298074771905
+413  [main] INFO  com.data.sockets.SocketSender  - Sending message: 961 sent: 1298074771906
+414  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771907
+414  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771907
+414  [main] INFO  com.data.sockets.SocketSender  - Sending message: 962 sent: 1298074771907
+414  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771907
+414  [main] INFO  com.data.sockets.SocketSender  - Sending message: 963 sent: 1298074771907
+415  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771908
+415  [main] INFO  com.data.sockets.SocketSender  - Sending message: 964 sent: 1298074771908
+415  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771908
+415  [main] INFO  com.data.sockets.SocketSender  - Sending message: 965 sent: 1298074771908
+415  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771908
+415  [main] INFO  com.data.sockets.SocketSender  - Sending message: 966 sent: 1298074771908
+416  [main] INFO  com.data.sockets.SocketSender  - Sending message: 967 sent: 1298074771909
+416  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771909
+416  [main] INFO  com.data.sockets.SocketSender  - Sending message: 968 sent: 1298074771909
+416  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771909
+416  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771909
+416  [main] INFO  com.data.sockets.SocketSender  - Sending message: 969 sent: 1298074771909
+416  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771909
+416  [main] INFO  com.data.sockets.SocketSender  - Sending message: 970 sent: 1298074771909
+417  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771910
+417  [main] INFO  com.data.sockets.SocketSender  - Sending message: 971 sent: 1298074771910
+417  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771910
+417  [main] INFO  com.data.sockets.SocketSender  - Sending message: 972 sent: 1298074771910
+417  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771910
+417  [main] INFO  com.data.sockets.SocketSender  - Sending message: 973 sent: 1298074771910
+418  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771911
+418  [main] INFO  com.data.sockets.SocketSender  - Sending message: 974 sent: 1298074771911
+418  [main] INFO  com.data.sockets.SocketSender  - Sending message: 975 sent: 1298074771911
+418  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771911
+418  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771911
+418  [main] INFO  com.data.sockets.SocketSender  - Sending message: 976 sent: 1298074771911
+419  [main] INFO  com.data.sockets.SocketSender  - Sending message: 977 sent: 1298074771912
+419  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771912
+419  [main] INFO  com.data.sockets.SocketSender  - Sending message: 978 sent: 1298074771912
+419  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771912
+419  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771912
+419  [main] INFO  com.data.sockets.SocketSender  - Sending message: 979 sent: 1298074771912
+420  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771913
+420  [main] INFO  com.data.sockets.SocketSender  - Sending message: 980 sent: 1298074771913
+420  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771913
+420  [main] INFO  com.data.sockets.SocketSender  - Sending message: 981 sent: 1298074771913
+420  [main] INFO  com.data.sockets.SocketSender  - Sending message: 982 sent: 1298074771913
+420  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771913
+420  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771913
+420  [main] INFO  com.data.sockets.SocketSender  - Sending message: 983 sent: 1298074771913
+421  [main] INFO  com.data.sockets.SocketSender  - Sending message: 984 sent: 1298074771914
+421  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771914
+421  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771914
+421  [main] INFO  com.data.sockets.SocketSender  - Sending message: 985 sent: 1298074771914
+421  [main] INFO  com.data.sockets.SocketSender  - Sending message: 986 sent: 1298074771914
+421  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771914
+422  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771915
+422  [main] INFO  com.data.sockets.SocketSender  - Sending message: 987 sent: 1298074771915
+422  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771915
+422  [main] INFO  com.data.sockets.SocketSender  - Sending message: 988 sent: 1298074771915
+422  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771915
+422  [main] INFO  com.data.sockets.SocketSender  - Sending message: 989 sent: 1298074771915
+423  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771916
+423  [main] INFO  com.data.sockets.SocketSender  - Sending message: 990 sent: 1298074771916
+423  [main] INFO  com.data.sockets.SocketSender  - Sending message: 991 sent: 1298074771916
+423  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771916
+423  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771916
+423  [main] INFO  com.data.sockets.SocketSender  - Sending message: 992 sent: 1298074771916
+424  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771917
+424  [main] INFO  com.data.sockets.SocketSender  - Sending message: 993 sent: 1298074771917
+424  [main] INFO  com.data.sockets.SocketSender  - Sending message: 994 sent: 1298074771917
+424  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771917
+424  [main] INFO  com.data.sockets.SocketSender  - Sending message: 995 sent: 1298074771917
+424  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771917
+425  [main] INFO  com.data.sockets.SocketSender  - Sending message: 996 sent: 1298074771918
+425  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771918
+425  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771918
+425  [main] INFO  com.data.sockets.SocketSender  - Sending message: 997 sent: 1298074771918
+426  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771919
+426  [main] INFO  com.data.sockets.SocketSender  - Sending message: 998 sent: 1298074771919
+427  [main] INFO  com.data.sockets.SocketSender  - Sending message: 999 sent: 1298074771920
+431  [Thread-1] INFO  com.data.sockets.ConnectionHandler  - Message received at: 1298074771924
+434  [main] INFO  com.data.benchmark.SerializedSocketIODriver  - Total execution time with 1000 values: 433ms
